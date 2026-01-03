@@ -5,6 +5,9 @@ on:
     - cron: "0 6 * * *" # ogni giorno alle 06:00 UTC
   workflow_dispatch:
 
+env:
+  AVIATIONSTACK_ACCESS_KEY: ${{ secrets.AVIATIONSTACK_ACCESS_KEY }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
