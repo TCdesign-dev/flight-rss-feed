@@ -2,7 +2,7 @@ import fs from 'fs';
 import fetch from 'node-fetch';
 
 // API Key per Aviationstack - ottieni la tua da: https://aviationstack.com/dashboard
-const AVIATIONSTACK_ACCESS_KEY = process.env.AVIATIONSTACK_ACCESS_KEY || 'YOUR_ACCESS_KEY_HERE';
+const AVIATIONSTACK_ACCESS_KEY = process.env.AVIATIONSTACK_ACCESS_KEY;
 const DATE_PATTERNS = (() => {
   const now = new Date();
   const day = String(now.getDate()).padStart(2,'0');
