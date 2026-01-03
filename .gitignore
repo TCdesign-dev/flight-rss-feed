@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Generated files
+flight_feed.xml
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
