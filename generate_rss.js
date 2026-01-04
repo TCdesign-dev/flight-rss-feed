@@ -2,7 +2,7 @@ import fs from 'fs';
 import fetch from 'node-fetch';
 
 // --- CONFIGURAZIONE API --- //
-const AVIATIONSTACK_ACCESS_KEY = process.env.AVIATIONSTACK_ACCESS_KEY;
+const AVIATIONSTACK_ACCESS_KEY = process.env.AVIATIONSTACK_ACCESS_KEY; // opzionale, usata solo per info volo
 const NOW = new Date();
 
 // --- CREAZIONE PATTERN DATA --- //
@@ -99,10 +99,75 @@ async function fetchAviationstackFlight(){
   return scoredFlights.length ? scoredFlights[0].flight : null;
 }
 
+// --- OPEN SKY OAUTH2 TOKEN --- //
+let OPENSKY_TOKEN_CACHE = { token: null, expiresAt: 0 };
+
+async function getOpenSkyToken() {
+  const now = Date.now();
+  if (OPENSKY_TOKEN_CACHE.token && now < OPENSKY_TOKEN_CACHE.expiresAt) {
+    return OPENSKY_TOKEN_CACHE.token;
+  }
+
+  const clientId = process.env.OPENSKY_CLIENT_ID;
+  const clientSecret = process.env.OPENSKY_CLIENT_SECRET;
+  if (!clientId || !clientSecret) return null;
+
+  const params = new URLSearchParams({
+    grant_type: 'client_credentials',
+    client_id: clientId,
+    client_secret: clientSecret
+  });
+
+  const res = await fetch(
+    'https://auth.opensky-network.org/auth/realms/opensky-network/protocol/openid-connect/token',
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: params
+    }
+  );
+
+  if (!res.ok) return null;
+  const data = await res.json();
+
+  OPENSKY_TOKEN_CACHE.token = data.access_token;
+  OPENSKY_TOKEN_CACHE.expiresAt = now + (data.expires_in - 60) * 1000;
+
+  return data.access_token;
+}
+
+// --- FETCH MODELLO AEREO DA OPENSKY --- //
+async function fetchAircraftModelFromOpenSky(icao24) {
+  if (!icao24) return null;
+
+  const token = await getOpenSkyToken();
+  if (!token) return null;
+
+  const res = await fetch(
+    `https://opensky-network.org/api/metadata/aircraft/icao/${icao24}`,
+    { headers: { Authorization: `Bearer ${token}` } }
+  );
+
+  if (!res.ok) return null;
+  const data = await res.json();
+
+  if (!data?.model) return null;
+
+  const manufacturer = data.manufacturerName || '';
+  const model = data.model || '';
+
+  return `${manufacturer} ${model}`.trim();
+}
+
 // --- FETCH VOLI LIVE OPENSKY (fallback) --- //
 async function fetchOpenSkyFlight(){
   try{
-    const res = await fetch("https://opensky-network.org/api/states/all");
+    const token = await getOpenSkyToken();
+    if(!token) return null;
+
+    const res = await fetch("https://opensky-network.org/api/states/all", {
+      headers: { Authorization: `Bearer ${token}` }
+    });
     const data = await res.json();
     if(!data?.states) return null;
 
@@ -114,47 +179,17 @@ async function fetchOpenSkyFlight(){
 
     if(!match) return null;
 
-    let flight = {
-      flight:{ iata: match[1] },
-      airline:{ name: "Unknown Airline" },
-      departure:{ airport:"Unknown" },
-      arrival:{ airport:"Unknown" },
+    return {
+      flight: { iata: match[1], icao24: match[0] },
+      airline: { name: "Unknown Airline" },
+      departure: { airport:"Unknown" },
+      arrival: { airport:"Unknown" },
       flight_status:'active'
     };
 
-    // --- PROVA A RECUPERARE INFO SU AVIATIONSTACK --- //
-    if(AVIATIONSTACK_ACCESS_KEY){
-      const baseUrl = "https://api.aviationstack.com/v1/flights";
-      const params = new URLSearchParams({ access_key:AVIATIONSTACK_ACCESS_KEY, flight_iata:match[1], limit:1 });
-      const url = `${baseUrl}?${params.toString()}`;
-      const avData = await fetchJsonSafe(url);
-      const avFlight = avData?.data?.[0];
-      if(avFlight){
-        flight.airline.name = avFlight.airline?.name || flight.airline.name;
-        flight.departure.airport = avFlight.departure?.airport || flight.departure.airport;
-        flight.departure.iata = avFlight.departure?.iata || '';
-        flight.arrival.airport = avFlight.arrival?.airport || flight.arrival.airport;
-        flight.arrival.iata = avFlight.arrival?.iata || '';
-        flight.flight.icao = avFlight.flight?.icao || null; // aggiunto per modello
-      }
-    }
-
-    return flight;
   }catch{
     return null;
   }
-}
-
-// --- RECUPERA MODELLO AEREO --- //
-async function fetchAircraftModel(icaoCode){
-  if(!AVIATIONSTACK_ACCESS_KEY || !icaoCode) return null;
-  const baseUrl = "https://api.aviationstack.com/v1/aircraft_types";
-  const params = new URLSearchParams({ access_key:AVIATIONSTACK_ACCESS_KEY, icao_code:icaoCode });
-  const url = `${baseUrl}?${params.toString()}`;
-  const data = await fetchJsonSafe(url);
-  const type = data?.data?.[0];
-  if(!type) return null;
-  return `${type.manufacturer_name||''} ${type.aircraft_name||''}`.trim();
 }
 
 // --- GENERA RSS --- //
@@ -177,7 +212,6 @@ async function generateRSS(){
   const airlineName = flight.airline?.name || 'Unknown Airline';
   const depAirport = flight.departure?.airport || 'Unknown';
   const arrAirport = flight.arrival?.airport || 'Unknown';
-  const flightIcao = flight.flight?.icao || null;
 
   const callsign = flightIata || flightNumber.toString();
   const link = `https://www.flightradar24.com/data/flights/${flightIata || flightNumber}`;
@@ -185,9 +219,11 @@ async function generateRSS(){
   const guid = `${callsign}-${NOW.toISOString().slice(0,10)}`;
   const currentDate = NOW.toLocaleDateString('en-US',{ weekday:'long', day:'numeric', month:'long', year:'numeric' });
 
-  // --- MODELLO AEREO --- //
+  // --- MODELLO AEREO (OpenSky) --- //
   let aircraftModel = null;
-  if(flightIcao) aircraftModel = await fetchAircraftModel(flightIcao);
+  if (flight.flight?.icao24) {
+    aircraftModel = await fetchAircraftModelFromOpenSky(flight.flight.icao24);
+  }
 
   // --- DESCRIZIONE --- //
   let description = `📅 ${currentDate}`;
