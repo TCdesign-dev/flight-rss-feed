@@ -5,16 +5,15 @@
     <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
     <description>Voli del giorno con link live</description>
     <item>
-      <title>Flight VF4126 del giorno - AJet</title>
-      <link>https://www.flightradar24.com/data/flights/VF4126</link>
+      <title>Flight ASJ04SJ  del giorno - Unknown Airline</title>
+      <link>https://www.flightradar24.com/data/flights/ASJ04SJ </link>
       <description><![CDATA[📅 Sunday, January 4, 2026
-✈ Flight of the day: VF4126 (AJet)
-🛫 From: Esenboga International (ESB)
-🛬 To: Canakkale (CKZ)
-🕐 Scheduled departure: 05/01/2026, 00:10 UTC
-🔗 Track live here: https://www.flightradar24.com/data/flights/VF4126]]></description>
-      <pubDate>Mon, 05 Jan 2026 00:10:00 GMT</pubDate>
-      <guid>VF4126-2026-01-04</guid>
+✈ Flight of the day: ASJ04SJ  (Unknown Airline)
+🛫 From: France
+🛬 To: 1767544887
+🔗 Track live here: https://www.flightradar24.com/data/flights/ASJ04SJ ]]></description>
+      <pubDate>Sun, 04 Jan 2026 16:41:44 GMT</pubDate>
+      <guid>ASJ04SJ -2026-01-04</guid>
     </item>
   </channel>
 </rss>
