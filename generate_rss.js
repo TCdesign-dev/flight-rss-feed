@@ -1,6 +1,7 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
 
+// --- CONFIGURAZIONE API --- //
 const AVIATIONSTACK_ACCESS_KEY = process.env.AVIATIONSTACK_ACCESS_KEY;
 const NOW = new Date();
 
@@ -63,7 +64,7 @@ async function fetchJsonSafe(url, retries = 3) {
   return null;
 }
 
-// --- FUNZIONI PER RANKING VOLI --- //
+// --- FUNZIONE RANKING AVIATIONSTACK --- //
 function scoreFlight(flight) {
   let score = 0;
   const now = Date.now();
@@ -86,24 +87,24 @@ function scoreFlight(flight) {
   return score;
 }
 
-// --- FETCH MIGLIOR VOLO OGGI --- //
-async function fetchBestFlight() {
+// --- FETCH MIGLIOR VOLO AVIATIONSTACK (oggi) --- //
+async function fetchAviationstackFlight() {
+  if (!AVIATIONSTACK_ACCESS_KEY || AVIATIONSTACK_ACCESS_KEY==='YOUR_ACCESS_KEY_HERE') return null;
   const baseUrl = "https://api.aviationstack.com/v1/flights";
-  const params = new URLSearchParams({ access_key: AVIATIONSTACK_ACCESS_KEY, limit: 100 });
+  const params = new URLSearchParams({ access_key: AVIATIONSTACK_ACCESS_KEY, flight_status: 'scheduled', limit: 100 });
   const url = `${baseUrl}?${params.toString()}`;
   const data = await fetchJsonSafe(url);
   if (!data?.data || !Array.isArray(data.data)) return null;
 
-  // --- FILTRA SOLO VOLI DI OGGI (UTC) --- //
-  const startOfDayUTC = new Date(Date.UTC(NOW.getUTCFullYear(), NOW.getUTCMonth(), NOW.getUTCDate(), 0,0,0));
-  const endOfDayUTC   = new Date(Date.UTC(NOW.getUTCFullYear(), NOW.getUTCMonth(), NOW.getUTCDate(), 23,59,59));
+  const startUTC = Date.UTC(NOW.getUTCFullYear(), NOW.getUTCMonth(), NOW.getUTCDate(), 0,0,0);
+  const endUTC   = Date.UTC(NOW.getUTCFullYear(), NOW.getUTCMonth(), NOW.getUTCDate(), 23,59,59);
 
   const scoredFlights = data.data
     .filter(flight => {
       const dep = flight.departure?.scheduled || flight.departure?.estimated || flight.departure?.actual;
       if (!dep) return false;
       const depTime = new Date(dep).getTime();
-      return depTime >= startOfDayUTC.getTime() && depTime <= endOfDayUTC.getTime();
+      return depTime >= startUTC && depTime <= endUTC;
     })
     .map(f => ({ flight: f, score: scoreFlight(f) }))
     .sort((a,b)=>b.score - a.score);
@@ -111,59 +112,69 @@ async function fetchBestFlight() {
   return scoredFlights.length ? scoredFlights[0].flight : null;
 }
 
-// --- GENERA FEED RSS --- //
-async function generateRSS() {
-  if (!AVIATIONSTACK_ACCESS_KEY || AVIATIONSTACK_ACCESS_KEY==='YOUR_ACCESS_KEY_HERE') {
-    console.error('❌ API key non configurata!');
-    process.exit(1);
+// --- FETCH VOLI LIVE OPENSKY (fallback) --- //
+async function fetchOpenSkyFlight() {
+  try {
+    const res = await fetch("https://opensky-network.org/api/states/all");
+    const data = await res.json();
+    if (!data?.states) return null;
+
+    const match = data.states.find(s => {
+      if (!s[1]) return false;
+      const cs = s[1].trim();
+      return DATE_PATTERNS.some(p => cs.includes(p));
+    });
+
+    if (!match) return null;
+
+    return {
+      flight: { 
+        flight: { iata: match[1] },
+        airline: { name: "Unknown Airline" },
+        departure: { airport: match[2] || "N/A", scheduled: new Date().toISOString() },
+        arrival: { airport: match[3] || "N/A" },
+        flight_status: 'active'
+      }
+    }.flight;
+  } catch {
+    return null;
   }
+}
 
-  console.log('Verifica connettività al server Aviationstack...');
-  const isConnected = await testConnectivity();
-  if (!isConnected) console.warn('⚠️ Server non raggiungibile, proverò comunque.\n');
-
-  console.log('Recupero dati voli...');
-  console.log(`Pattern cercati: ${DATE_PATTERNS.join(', ')}`);
-  const flight = await fetchBestFlight();
+// --- GENERA RSS --- //
+async function generateRSS() {
+  console.log('Recupero miglior volo schedulato da Aviationstack...');
+  let flight = await fetchAviationstackFlight();
 
   if (!flight) {
-    console.log("\nNessun volo trovato oggi.");
-    return;
+    console.log('Nessun volo schedulato trovato, cerco voli live su OpenSky...');
+    flight = await fetchOpenSkyFlight();
+    if (!flight) {
+      console.log('Nessun volo live trovato oggi.');
+      return;
+    }
   }
 
-  // Estrazione info volo
+  // --- ESTRAZIONE INFO --- //
   const flightNumber = flight.flight?.number || flight.flight?.iata || 'N/A';
   const flightIata = flight.flight?.iata || '';
   const airlineName = flight.airline?.name || 'Unknown Airline';
   const depAirport = flight.departure?.airport || 'Unknown';
-  const depIata = flight.departure?.iata || '';
-  const depCity = flight.departure?.city || '';
   const arrAirport = flight.arrival?.airport || 'Unknown';
-  const arrIata = flight.arrival?.iata || '';
-  const arrCity = flight.arrival?.city || '';
 
   const callsign = flightIata || flightNumber.toString();
   const link = `https://www.flightradar24.com/data/flights/${flightIata || flightNumber}`;
 
-  // --- PUBDATE OTTIMIZZATO INTERNATIONALE --- //
-  // 14:00 CET (13:00 UTC)
-  const pubDateUTC = new Date(Date.UTC(NOW.getUTCFullYear(), NOW.getUTCMonth(), NOW.getUTCDate(), 13,0,0));
-  const pubDate = pubDateUTC.toUTCString();
-
+  // --- PUBDATE (ora corrente UTC) --- //
+  const pubDate = new Date().toUTCString();
   const guid = `${callsign}-${NOW.toISOString().slice(0,10)}`;
 
-  const currentDate = NOW.toLocaleDateString('en-US', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+  const currentDate = NOW.toLocaleDateString('en-US', { weekday:'long', day:'numeric', month:'long', year:'numeric' });
 
   let description = `📅 ${currentDate}`;
   description += `\n✈ Flight of the day: ${flightIata || flightNumber} (${airlineName})`;
-  if (depIata && arrIata) {
-    description += `\n🛫 From: ${depCity || depAirport} (${depIata})`;
-    description += `\n🛬 To: ${arrCity || arrAirport} (${arrIata})`;
-  }
-  if (flight.departure?.scheduled) {
-    const depTime = new Date(flight.departure.scheduled).toLocaleString('it-IT', { timeZone: 'UTC', day:'2-digit', month:'2-digit', year:'numeric', hour:'2-digit', minute:'2-digit' });
-    description += `\n🕐 Scheduled departure: ${depTime} UTC`;
-  }
+  description += `\n🛫 From: ${depAirport}`;
+  description += `\n🛬 To: ${arrAirport}`;
   description += `\n🔗 Track live here: ${link}`;
 
   const rss = `<?xml version="1.0" encoding="UTF-8" ?>
