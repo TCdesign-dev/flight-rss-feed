@@ -28,19 +28,6 @@ const DATE_PATTERNS = (() => {
   return [...numericPatterns, ...textPatterns];
 })();
 
-// --- TEST CONNETTIVITÀ --- //
-async function testConnectivity() {
-  try {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 5000);
-    await fetch('https://api.aviationstack.com', { method: 'HEAD', signal: controller.signal });
-    clearTimeout(timeoutId);
-    return true;
-  } catch {
-    return false;
-  }
-}
-
 // --- FETCH SICURA --- //
 async function fetchJsonSafe(url, retries = 3) {
   for (let i=0;i<retries;i++) {
@@ -50,9 +37,9 @@ async function fetchJsonSafe(url, retries = 3) {
       const res = await fetch(url, { signal: controller.signal });
       clearTimeout(timeoutId);
       if (!res.ok) {
-        if (res.status === 503) { if (i===retries-1) return null; await new Promise(r=>setTimeout(r, 3000*(i+1))); continue; }
         if (i===retries-1) return null;
-        await new Promise(r=>setTimeout(r, 2000*(i+1))); continue;
+        await new Promise(r=>setTimeout(r, 2000*(i+1)));
+        continue;
       }
       const text = await res.text();
       try { return JSON.parse(text); } catch { return null; }
@@ -127,15 +114,31 @@ async function fetchOpenSkyFlight() {
 
     if (!match) return null;
 
-    return {
-      flight: { 
-        flight: { iata: match[1] },
-        airline: { name: "Unknown Airline" },
-        departure: { airport: match[2] || "N/A", scheduled: new Date().toISOString() },
-        arrival: { airport: match[3] || "N/A" },
-        flight_status: 'active'
+    let flight = {
+      flight: { iata: match[1] },
+      airline: { name: "Unknown Airline" },
+      departure: { airport: "Unknown" },
+      arrival: { airport: "Unknown" },
+      flight_status: 'active'
+    };
+
+    // --- PROVA A RECUPERARE INFO SU AVIATIONSTACK --- //
+    if (AVIATIONSTACK_ACCESS_KEY) {
+      const baseUrl = "https://api.aviationstack.com/v1/flights";
+      const params = new URLSearchParams({ access_key: AVIATIONSTACK_ACCESS_KEY, flight_iata: match[1], limit: 1 });
+      const url = `${baseUrl}?${params.toString()}`;
+      const avData = await fetchJsonSafe(url);
+      const avFlight = avData?.data?.[0];
+      if (avFlight) {
+        flight.airline.name = avFlight.airline?.name || flight.airline.name;
+        flight.departure.airport = avFlight.departure?.airport || flight.departure.airport;
+        flight.departure.iata = avFlight.departure?.iata || '';
+        flight.arrival.airport = avFlight.arrival?.airport || flight.arrival.airport;
+        flight.arrival.iata = avFlight.arrival?.iata || '';
       }
-    }.flight;
+    }
+
+    return flight;
   } catch {
     return null;
   }
