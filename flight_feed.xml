@@ -5,16 +5,16 @@
     <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
     <description>Voli del giorno con link live</description>
     <item>
-      <title>Flight NZ7035 del giorno - Air New Zealand</title>
-      <link>https://www.flightradar24.com/data/flights/NZ7035</link>
-      <description><![CDATA[📅 Saturday, January 3, 2026
-✈ Flight of the day: NZ7035 (Air New Zealand)
-🛫 From: Melbourne - Tullamarine Airport (MEL)
-🛬 To: Devonport (DPO)
-🕐 Scheduled departure: 04/01/2026, 08:20 UTC
-🔗 Track live here: https://www.flightradar24.com/data/flights/NZ7035]]></description>
-      <pubDate>Sun, 04 Jan 2026 08:20:00 GMT</pubDate>
-      <guid>NZ7035-2026-01-03</guid>
+      <title>Flight NZ5104 del giorno - Air New Zealand</title>
+      <link>https://www.flightradar24.com/data/flights/NZ5104</link>
+      <description><![CDATA[📅 Sunday, January 4, 2026
+✈ Flight of the day: NZ5104 (Air New Zealand)
+🛫 From: Palmerston North (PMR)
+🛬 To: Auckland International (AKL)
+🕐 Scheduled departure: 05/01/2026, 08:20 UTC
+🔗 Track live here: https://www.flightradar24.com/data/flights/NZ5104]]></description>
+      <pubDate>Mon, 05 Jan 2026 08:20:00 GMT</pubDate>
+      <guid>NZ5104-2026-01-04</guid>
     </item>
   </channel>
 </rss>
