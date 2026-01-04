@@ -6,6 +6,8 @@ on:
   workflow_dispatch:
 
 env:
+  OPENSKY_CLIENT_ID: ${{ secrets.OPENSKY_CLIENT_ID }}
+  OPENSKY_CLIENT_SECRET: ${{ secrets.OPENSKY_CLIENT_SECRET }}
   AVIATIONSTACK_ACCESS_KEY: ${{ secrets.AVIATIONSTACK_ACCESS_KEY }}
 
 jobs:
