@@ -5,15 +5,15 @@
     <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
     <description>Voli del giorno con link live</description>
     <item>
-      <title>Flight ASJ04SJ  del giorno - Unknown Airline</title>
-      <link>https://www.flightradar24.com/data/flights/ASJ04SJ </link>
+      <title>Flight AIC2904  del giorno - Unknown Airline</title>
+      <link>https://www.flightradar24.com/data/flights/AIC2904 </link>
       <description><![CDATA[📅 Sunday, January 4, 2026
-✈ Flight of the day: ASJ04SJ  (Unknown Airline)
+✈ Flight of the day: AIC2904  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://www.flightradar24.com/data/flights/ASJ04SJ ]]></description>
-      <pubDate>Sun, 04 Jan 2026 16:59:25 GMT</pubDate>
-      <guid>ASJ04SJ -2026-01-04</guid>
+🔗 Track live here: https://www.flightradar24.com/data/flights/AIC2904 ]]></description>
+      <pubDate>Sun, 04 Jan 2026 17:16:28 GMT</pubDate>
+      <guid>AIC2904 -2026-01-04</guid>
     </item>
   </channel>
 </rss>
