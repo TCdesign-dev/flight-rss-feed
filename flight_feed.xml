@@ -5,16 +5,16 @@
     <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
     <description>Voli del giorno con link live</description>
     <item>
-      <title>Flight NZ5104 del giorno - Air New Zealand</title>
-      <link>https://www.flightradar24.com/data/flights/NZ5104</link>
+      <title>Flight VF4126 del giorno - AJet</title>
+      <link>https://www.flightradar24.com/data/flights/VF4126</link>
       <description><![CDATA[📅 Sunday, January 4, 2026
-✈ Flight of the day: NZ5104 (Air New Zealand)
-🛫 From: Palmerston North (PMR)
-🛬 To: Auckland International (AKL)
-🕐 Scheduled departure: 05/01/2026, 08:20 UTC
-🔗 Track live here: https://www.flightradar24.com/data/flights/NZ5104]]></description>
-      <pubDate>Mon, 05 Jan 2026 08:20:00 GMT</pubDate>
-      <guid>NZ5104-2026-01-04</guid>
+✈ Flight of the day: VF4126 (AJet)
+🛫 From: Esenboga International (ESB)
+🛬 To: Canakkale (CKZ)
+🕐 Scheduled departure: 05/01/2026, 00:10 UTC
+🔗 Track live here: https://www.flightradar24.com/data/flights/VF4126]]></description>
+      <pubDate>Mon, 05 Jan 2026 00:10:00 GMT</pubDate>
+      <guid>VF4126-2026-01-04</guid>
     </item>
   </channel>
 </rss>
