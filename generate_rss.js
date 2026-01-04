@@ -225,30 +225,47 @@ async function generateRSS(){
     aircraftModel = await fetchAircraftModelFromOpenSky(flight.flight.icao24);
   }
 
-  // --- DESCRIZIONE --- //
+  // --- DESCRIZIONE PULITA --- //
   let description = `📅 ${currentDate}`;
-  description += `\n✈ Flight of the day: ${flightIata || flightNumber} (${airlineName})`;
-  description += `\n🛫 From: ${depAirport}`;
-  description += `\n🛬 To: ${arrAirport}`;
-  if(aircraftModel) description += `\n🛩 Aircraft model: ${aircraftModel}`;
-  description += `\n🔗 Track live here: ${link}`;
-
+  
+  // Flight info
+  if (flightIata || flightNumber) {
+    description += `\n✈ Flight of the day: ${flightIata || flightNumber}`;
+    if (airlineName) description += ` (${airlineName})`;
+  }
+  
+  // Departure / Arrival
+  if (depAirport) description += `\n🛫 From: ${depAirport}`;
+  if (arrAirport) description += `\n🛬 To: ${arrAirport}`;
+  
+  // Aircraft model
+  if (aircraftModel) description += `\n🛩 Aircraft model: ${aircraftModel}`;
+  
+  // Tracking link su OpenSky se disponibile
+  if (flight.flight?.icao24) {
+    description += `\n🔗 Track live here: https://opensky-network.org/aircraft/${flight.flight.icao24}`;
+  } else if (flightIata || flightNumber) {
+    // fallback su Flightradar se non c'è icao24
+    description += `\n🔗 Track live here: https://www.flightradar24.com/data/flights/${flightIata || flightNumber}`;
+  }
+  
   // --- RSS --- //
   const rss = `<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-  <channel>
-    <title>Flight of the Day</title>
-    <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
-    <description>Voli del giorno con link live</description>
-    <item>
-      <title>Flight ${flightIata || flightNumber} del giorno - ${airlineName}</title>
-      <link>${link}</link>
-      <description><![CDATA[${description}]]></description>
-      <pubDate>${pubDate}</pubDate>
-      <guid>${guid}</guid>
-    </item>
-  </channel>
-</rss>`;
+  <rss version="2.0">
+    <channel>
+      <title>Flight of the Day</title>
+      <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
+      <description>Daily flights with live tracking</description>
+      <item>
+        <title>Flight ${flightIata || flightNumber}${airlineName ? ' - ' + airlineName : ''}</title>
+        <link>${flight.flight?.icao24 ? `https://opensky-network.org/aircraft/${flight.flight.icao24}` : link}</link>
+        <description><![CDATA[${description}]]></description>
+        <pubDate>${pubDate}</pubDate>
+        <guid>${guid}</guid>
+      </item>
+    </channel>
+  </rss>`;
+
 
   fs.writeFileSync('flight_feed.xml',rss);
   console.log('\n✓ Feed RSS generato: flight_feed.xml');
