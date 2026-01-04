@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-  <channel>
-    <title>Flight of the Day</title>
-    <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
-    <description>Voli del giorno con link live</description>
-    <item>
-      <title>Flight EJA943   del giorno - Unknown Airline</title>
-      <link>https://www.flightradar24.com/data/flights/EJA943  </link>
-      <description><![CDATA[📅 Sunday, January 4, 2026
+  <rss version="2.0">
+    <channel>
+      <title>Flight of the Day</title>
+      <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
+      <description>Daily flights with live tracking</description>
+      <item>
+        <title>Flight EJA943   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ad19bc</link>
+        <description><![CDATA[📅 Sunday, January 4, 2026
 ✈ Flight of the day: EJA943   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
 🛩 Aircraft model: Cessna 680A Citation Latitude
-🔗 Track live here: https://www.flightradar24.com/data/flights/EJA943  ]]></description>
-      <pubDate>Sun, 04 Jan 2026 18:14:45 GMT</pubDate>
-      <guid>EJA943  -2026-01-04</guid>
-    </item>
-  </channel>
-</rss>
+🔗 Track live here: https://opensky-network.org/aircraft/ad19bc]]></description>
+        <pubDate>Sun, 04 Jan 2026 18:24:13 GMT</pubDate>
+        <guid>EJA943  -2026-01-04</guid>
+      </item>
+    </channel>
+  </rss>
