@@ -5,16 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight EJA943   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/ad19bc</link>
-        <description><![CDATA[📅 Sunday, January 4, 2026
-✈ Flight of the day: EJA943   (Unknown Airline)
+        <title>Flight 2M1046 - Maya Island Air</title>
+        <link>https://www.flightradar24.com/data/flights/2M1046</link>
+        <description><![CDATA[📅 Monday, January 5, 2026
+✈ Flight of the day: 2M1046 (Maya Island Air)
 🛫 From: Unknown
-🛬 To: Unknown
-🛩 Aircraft model: Cessna 680A Citation Latitude
-🔗 Track live here: https://opensky-network.org/aircraft/ad19bc]]></description>
-        <pubDate>Sun, 04 Jan 2026 18:24:13 GMT</pubDate>
-        <guid>EJA943  -2026-01-04</guid>
+🛬 To: Philip S. W. Goldson International
+🔗 Track live here: https://www.flightradar24.com/data/flights/2M1046]]></description>
+        <pubDate>Mon, 05 Jan 2026 10:17:31 GMT</pubDate>
+        <guid>2M1046-2026-01-05</guid>
       </item>
     </channel>
   </rss>
