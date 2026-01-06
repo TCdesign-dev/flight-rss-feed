@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS6568 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS6568</link>
-        <description><![CDATA[📅 Monday, January 5, 2026
-✈ Flight of the day: WS6568 (WestJet)
-🛫 From: Detroit Metropolitan Wayne County
-🛬 To: Hopkins International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS6568]]></description>
-        <pubDate>Mon, 05 Jan 2026 12:05:54 GMT</pubDate>
-        <guid>WS6568-2026-01-05</guid>
+        <title>Flight HV92 - Transavia</title>
+        <link>https://www.flightradar24.com/data/flights/HV92</link>
+        <description><![CDATA[📅 Tuesday, January 6, 2026
+✈ Flight of the day: HV92 (Transavia)
+🛫 From: Maastricht/aachen
+🛬 To: Rotterdam Zestienhoven
+🔗 Track live here: https://www.flightradar24.com/data/flights/HV92]]></description>
+        <pubDate>Tue, 06 Jan 2026 10:15:50 GMT</pubDate>
+        <guid>HV92-2026-01-06</guid>
       </item>
     </channel>
   </rss>
