@@ -5,16 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS6453 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS6453</link>
-        <description><![CDATA[📅 Thursday, January 8, 2026
-✈ Flight of the day: WS6453 (WestJet)
-🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Columbus Metropolitan Airport
-
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS6453]]></description>
-        <pubDate>Thu, 08 Jan 2026 10:16:50 GMT</pubDate>
-        <guid>WS6453-2026-01-08</guid>
+        <title>Flight FR7426 - Ryanair</title>
+        <link>https://www.flightradar24.com/data/flights/FR7426</link>
+        <description><![CDATA[📅 Friday, January 9, 2026
+✈ Flight of the day: FR7426 (Ryanair)
+🛫 From: Vasteras/Hasslo
+🛬 To: Alicante El Altet
+🔗 Track live here: https://www.flightradar24.com/data/flights/FR7426]]></description>
+        <pubDate>Fri, 09 Jan 2026 10:15:46 GMT</pubDate>
+        <guid>FR7426-2026-01-09</guid>
       </item>
     </channel>
   </rss>
