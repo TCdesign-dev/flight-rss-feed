@@ -5,15 +5,16 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS8409 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS8409</link>
-        <description><![CDATA[📅 Saturday, January 10, 2026
-✈ Flight of the day: WS8409 (WestJet)
-🛫 From: Detroit Metropolitan Wayne County
-🛬 To: Newark Liberty International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS8409]]></description>
-        <pubDate>Sat, 10 Jan 2026 10:14:00 GMT</pubDate>
-        <guid>WS8409-2026-01-10</guid>
+        <title>Flight WS6453 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS6453</link>
+        <description><![CDATA[📅 Sunday, January 11, 2026
+✈ Flight of the day: WS6453 (WestJet)
+🛫 From: Hartsfield-jackson Atlanta International
+🛬 To: Columbus Metropolitan Airport
+
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS6453]]></description>
+        <pubDate>Sun, 11 Jan 2026 10:13:50 GMT</pubDate>
+        <guid>WS6453-2026-01-11</guid>
       </item>
     </channel>
   </rss>
