@@ -5,16 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS6453 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS6453</link>
-        <description><![CDATA[📅 Sunday, January 11, 2026
-✈ Flight of the day: WS6453 (WestJet)
+        <title>Flight WS6662 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS6662</link>
+        <description><![CDATA[📅 Monday, January 12, 2026
+✈ Flight of the day: WS6662 (WestJet)
 🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Columbus Metropolitan Airport
-
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS6453]]></description>
-        <pubDate>Sun, 11 Jan 2026 10:13:50 GMT</pubDate>
-        <guid>WS6453-2026-01-11</guid>
+🛬 To: Dougherty County
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS6662]]></description>
+        <pubDate>Mon, 12 Jan 2026 10:18:05 GMT</pubDate>
+        <guid>WS6662-2026-01-12</guid>
       </item>
     </channel>
   </rss>
