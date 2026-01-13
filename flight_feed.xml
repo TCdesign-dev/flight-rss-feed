@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS6662 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS6662</link>
-        <description><![CDATA[📅 Monday, January 12, 2026
-✈ Flight of the day: WS6662 (WestJet)
+        <title>Flight WS5509 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS5509</link>
+        <description><![CDATA[📅 Tuesday, January 13, 2026
+✈ Flight of the day: WS5509 (WestJet)
 🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Dougherty County
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS6662]]></description>
-        <pubDate>Mon, 12 Jan 2026 10:18:05 GMT</pubDate>
-        <guid>WS6662-2026-01-12</guid>
+🛬 To: Baltimore/Washington International Thurgood Marshall
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS5509]]></description>
+        <pubDate>Tue, 13 Jan 2026 10:16:36 GMT</pubDate>
+        <guid>WS5509-2026-01-13</guid>
       </item>
     </channel>
   </rss>
