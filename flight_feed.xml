@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS6575 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS6575</link>
-        <description><![CDATA[📅 Wednesday, January 14, 2026
-✈ Flight of the day: WS6575 (WestJet)
-🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Lambert-St. Louis International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS6575]]></description>
-        <pubDate>Wed, 14 Jan 2026 10:16:58 GMT</pubDate>
-        <guid>WS6575-2026-01-14</guid>
+        <title>Flight WS7175 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS7175</link>
+        <description><![CDATA[📅 Thursday, January 15, 2026
+✈ Flight of the day: WS7175 (WestJet)
+🛫 From: Detroit Metropolitan Wayne County
+🛬 To: Pierre Elliott Trudeau International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS7175]]></description>
+        <pubDate>Thu, 15 Jan 2026 10:16:18 GMT</pubDate>
+        <guid>WS7175-2026-01-15</guid>
       </item>
     </channel>
   </rss>
