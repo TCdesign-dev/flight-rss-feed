@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS7175 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS7175</link>
-        <description><![CDATA[📅 Thursday, January 15, 2026
-✈ Flight of the day: WS7175 (WestJet)
-🛫 From: Detroit Metropolitan Wayne County
-🛬 To: Pierre Elliott Trudeau International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS7175]]></description>
-        <pubDate>Thu, 15 Jan 2026 10:16:18 GMT</pubDate>
-        <guid>WS7175-2026-01-15</guid>
+        <title>Flight WS6662 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS6662</link>
+        <description><![CDATA[📅 Friday, January 16, 2026
+✈ Flight of the day: WS6662 (WestJet)
+🛫 From: Hartsfield-jackson Atlanta International
+🛬 To: Dougherty County
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS6662]]></description>
+        <pubDate>Fri, 16 Jan 2026 10:15:37 GMT</pubDate>
+        <guid>WS6662-2026-01-16</guid>
       </item>
     </channel>
   </rss>
