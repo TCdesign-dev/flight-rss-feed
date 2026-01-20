@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight KL1989 - KLM</title>
-        <link>https://www.flightradar24.com/data/flights/KL1989</link>
-        <description><![CDATA[📅 Monday, January 19, 2026
-✈ Flight of the day: KL1989 (KLM)
-🛫 From: Schiphol
-🛬 To: Brnik
-🔗 Track live here: https://www.flightradar24.com/data/flights/KL1989]]></description>
-        <pubDate>Mon, 19 Jan 2026 10:20:43 GMT</pubDate>
-        <guid>KL1989-2026-01-19</guid>
+        <title>Flight WS6384 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS6384</link>
+        <description><![CDATA[📅 Tuesday, January 20, 2026
+✈ Flight of the day: WS6384 (WestJet)
+🛫 From: Hartsfield-jackson Atlanta International
+🛬 To: Lehigh Valley International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS6384]]></description>
+        <pubDate>Tue, 20 Jan 2026 10:19:34 GMT</pubDate>
+        <guid>WS6384-2026-01-20</guid>
       </item>
     </channel>
   </rss>
