@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight THU500 - Thunder Airlines</title>
-        <link>https://www.flightradar24.com/data/flights/THU500</link>
-        <description><![CDATA[📅 Thursday, January 22, 2026
-✈ Flight of the day: THU500 (Thunder Airlines)
-🛫 From: Fort Albany
-🛬 To: Kaschechewan
-🔗 Track live here: https://www.flightradar24.com/data/flights/THU500]]></description>
-        <pubDate>Thu, 22 Jan 2026 10:19:48 GMT</pubDate>
-        <guid>THU500-2026-01-22</guid>
+        <title>Flight WS7118 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS7118</link>
+        <description><![CDATA[📅 Friday, January 23, 2026
+✈ Flight of the day: WS7118 (WestJet)
+🛫 From: John F Kennedy International
+🛬 To: Washington Dulles International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS7118]]></description>
+        <pubDate>Fri, 23 Jan 2026 10:17:16 GMT</pubDate>
+        <guid>WS7118-2026-01-23</guid>
       </item>
     </channel>
   </rss>
