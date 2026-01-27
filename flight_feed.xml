@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS7312 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS7312</link>
-        <description><![CDATA[📅 Monday, January 26, 2026
-✈ Flight of the day: WS7312 (WestJet)
-🛫 From: Detroit Metropolitan Wayne County
-🛬 To: Cherry Capital Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS7312]]></description>
-        <pubDate>Mon, 26 Jan 2026 10:19:10 GMT</pubDate>
-        <guid>WS7312-2026-01-26</guid>
+        <title>Flight 1I327 - NetJets Aviation</title>
+        <link>https://www.flightradar24.com/data/flights/1I327</link>
+        <description><![CDATA[📅 Tuesday, January 27, 2026
+✈ Flight of the day: 1I327 (NetJets Aviation)
+🛫 From: Unknown
+🛬 To: Dekalb-Peachtree
+🔗 Track live here: https://www.flightradar24.com/data/flights/1I327]]></description>
+        <pubDate>Tue, 27 Jan 2026 10:19:42 GMT</pubDate>
+        <guid>1I327-2026-01-27</guid>
       </item>
     </channel>
   </rss>
