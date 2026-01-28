@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 1I327 - NetJets Aviation</title>
-        <link>https://www.flightradar24.com/data/flights/1I327</link>
-        <description><![CDATA[📅 Tuesday, January 27, 2026
-✈ Flight of the day: 1I327 (NetJets Aviation)
-🛫 From: Unknown
-🛬 To: Dekalb-Peachtree
-🔗 Track live here: https://www.flightradar24.com/data/flights/1I327]]></description>
-        <pubDate>Tue, 27 Jan 2026 10:19:42 GMT</pubDate>
-        <guid>1I327-2026-01-27</guid>
+        <title>Flight U22884 - easyJet</title>
+        <link>https://www.flightradar24.com/data/flights/U22884</link>
+        <description><![CDATA[📅 Wednesday, January 28, 2026
+✈ Flight of the day: U22884 (easyJet)
+🛫 From: Geneve-cointrin
+🛬 To: Bristol
+🔗 Track live here: https://www.flightradar24.com/data/flights/U22884]]></description>
+        <pubDate>Wed, 28 Jan 2026 10:20:45 GMT</pubDate>
+        <guid>U22884-2026-01-28</guid>
       </item>
     </channel>
   </rss>
