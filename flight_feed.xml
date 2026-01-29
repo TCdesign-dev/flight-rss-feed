@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight U22884 - easyJet</title>
-        <link>https://www.flightradar24.com/data/flights/U22884</link>
-        <description><![CDATA[📅 Wednesday, January 28, 2026
-✈ Flight of the day: U22884 (easyJet)
-🛫 From: Geneve-cointrin
-🛬 To: Bristol
-🔗 Track live here: https://www.flightradar24.com/data/flights/U22884]]></description>
-        <pubDate>Wed, 28 Jan 2026 10:20:45 GMT</pubDate>
-        <guid>U22884-2026-01-28</guid>
+        <title>Flight WS8654 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS8654</link>
+        <description><![CDATA[📅 Thursday, January 29, 2026
+✈ Flight of the day: WS8654 (WestJet)
+🛫 From: Hartsfield-jackson Atlanta International
+🛬 To: Evansville Regional Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS8654]]></description>
+        <pubDate>Thu, 29 Jan 2026 10:28:24 GMT</pubDate>
+        <guid>WS8654-2026-01-29</guid>
       </item>
     </channel>
   </rss>
