@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS8654 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS8654</link>
-        <description><![CDATA[📅 Thursday, January 29, 2026
-✈ Flight of the day: WS8654 (WestJet)
-🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Evansville Regional Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS8654]]></description>
-        <pubDate>Thu, 29 Jan 2026 10:28:24 GMT</pubDate>
-        <guid>WS8654-2026-01-29</guid>
+        <title>Flight 1I302 - NetJets Aviation</title>
+        <link>https://www.flightradar24.com/data/flights/1I302</link>
+        <description><![CDATA[📅 Friday, January 30, 2026
+✈ Flight of the day: 1I302 (NetJets Aviation)
+🛫 From: Kissimmee Gateway
+🛬 To: Greenville Downtown
+🔗 Track live here: https://www.flightradar24.com/data/flights/1I302]]></description>
+        <pubDate>Fri, 30 Jan 2026 10:24:51 GMT</pubDate>
+        <guid>1I302-2026-01-30</guid>
       </item>
     </channel>
   </rss>
