@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 1I302 - NetJets Aviation</title>
-        <link>https://www.flightradar24.com/data/flights/1I302</link>
-        <description><![CDATA[📅 Friday, January 30, 2026
-✈ Flight of the day: 1I302 (NetJets Aviation)
-🛫 From: Kissimmee Gateway
-🛬 To: Greenville Downtown
-🔗 Track live here: https://www.flightradar24.com/data/flights/1I302]]></description>
-        <pubDate>Fri, 30 Jan 2026 10:24:51 GMT</pubDate>
-        <guid>1I302-2026-01-30</guid>
+        <title>Flight 9N431 - Tropic Air</title>
+        <link>https://www.flightradar24.com/data/flights/9N431</link>
+        <description><![CDATA[📅 Saturday, January 31, 2026
+✈ Flight of the day: 9N431 (Tropic Air)
+🛫 From: Unknown
+🛬 To: Philip S. W. Goldson International
+🔗 Track live here: https://www.flightradar24.com/data/flights/9N431]]></description>
+        <pubDate>Sat, 31 Jan 2026 10:16:36 GMT</pubDate>
+        <guid>9N431-2026-01-31</guid>
       </item>
     </channel>
   </rss>
