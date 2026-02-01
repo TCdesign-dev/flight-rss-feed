@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 9N431 - Tropic Air</title>
-        <link>https://www.flightradar24.com/data/flights/9N431</link>
-        <description><![CDATA[📅 Saturday, January 31, 2026
-✈ Flight of the day: 9N431 (Tropic Air)
+        <title>Flight 2M1044 - Maya Island Air</title>
+        <link>https://www.flightradar24.com/data/flights/2M1044</link>
+        <description><![CDATA[📅 Sunday, February 1, 2026
+✈ Flight of the day: 2M1044 (Maya Island Air)
 🛫 From: Unknown
-🛬 To: Philip S. W. Goldson International
-🔗 Track live here: https://www.flightradar24.com/data/flights/9N431]]></description>
-        <pubDate>Sat, 31 Jan 2026 10:16:36 GMT</pubDate>
-        <guid>9N431-2026-01-31</guid>
+🛬 To: Unknown
+🔗 Track live here: https://www.flightradar24.com/data/flights/2M1044]]></description>
+        <pubDate>Sun, 01 Feb 2026 10:17:32 GMT</pubDate>
+        <guid>2M1044-2026-02-01</guid>
       </item>
     </channel>
   </rss>
