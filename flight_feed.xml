@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 2M1044 - Maya Island Air</title>
-        <link>https://www.flightradar24.com/data/flights/2M1044</link>
-        <description><![CDATA[📅 Sunday, February 1, 2026
-✈ Flight of the day: 2M1044 (Maya Island Air)
-🛫 From: Unknown
-🛬 To: Unknown
-🔗 Track live here: https://www.flightradar24.com/data/flights/2M1044]]></description>
-        <pubDate>Sun, 01 Feb 2026 10:17:32 GMT</pubDate>
-        <guid>2M1044-2026-02-01</guid>
+        <title>Flight VE7835 - EasyFly</title>
+        <link>https://www.flightradar24.com/data/flights/VE7835</link>
+        <description><![CDATA[📅 Monday, February 2, 2026
+✈ Flight of the day: VE7835 (EasyFly)
+🛫 From: Santaguida
+🛬 To: El Nuevo Dorado International
+🔗 Track live here: https://www.flightradar24.com/data/flights/VE7835]]></description>
+        <pubDate>Mon, 02 Feb 2026 10:36:20 GMT</pubDate>
+        <guid>VE7835-2026-02-02</guid>
       </item>
     </channel>
   </rss>
