@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS6358 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS6358</link>
-        <description><![CDATA[📅 Tuesday, February 3, 2026
-✈ Flight of the day: WS6358 (WestJet)
+        <title>Flight WS7041 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS7041</link>
+        <description><![CDATA[📅 Wednesday, February 4, 2026
+✈ Flight of the day: WS7041 (WestJet)
 🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Birmingham-Shuttlesworth International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS6358]]></description>
-        <pubDate>Tue, 03 Feb 2026 10:31:35 GMT</pubDate>
-        <guid>WS6358-2026-02-03</guid>
+🛬 To: Gerald R. Ford International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS7041]]></description>
+        <pubDate>Wed, 04 Feb 2026 10:31:12 GMT</pubDate>
+        <guid>WS7041-2026-02-04</guid>
       </item>
     </channel>
   </rss>
