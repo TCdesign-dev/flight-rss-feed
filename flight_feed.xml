@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS7041 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS7041</link>
-        <description><![CDATA[📅 Wednesday, February 4, 2026
-✈ Flight of the day: WS7041 (WestJet)
-🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Gerald R. Ford International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS7041]]></description>
-        <pubDate>Wed, 04 Feb 2026 10:31:12 GMT</pubDate>
-        <guid>WS7041-2026-02-04</guid>
+        <title>Flight AM8711 - Aeromexico</title>
+        <link>https://www.flightradar24.com/data/flights/AM8711</link>
+        <description><![CDATA[📅 Thursday, February 5, 2026
+✈ Flight of the day: AM8711 (Aeromexico)
+🛫 From: El Nuevo Dorado International
+🛬 To: Palo Negro
+🔗 Track live here: https://www.flightradar24.com/data/flights/AM8711]]></description>
+        <pubDate>Thu, 05 Feb 2026 10:32:53 GMT</pubDate>
+        <guid>AM8711-2026-02-05</guid>
       </item>
     </channel>
   </rss>
