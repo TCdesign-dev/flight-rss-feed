@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AM8711 - Aeromexico</title>
-        <link>https://www.flightradar24.com/data/flights/AM8711</link>
-        <description><![CDATA[📅 Thursday, February 5, 2026
-✈ Flight of the day: AM8711 (Aeromexico)
-🛫 From: El Nuevo Dorado International
-🛬 To: Palo Negro
-🔗 Track live here: https://www.flightradar24.com/data/flights/AM8711]]></description>
-        <pubDate>Thu, 05 Feb 2026 10:32:53 GMT</pubDate>
-        <guid>AM8711-2026-02-05</guid>
+        <title>Flight LY4406 - El Al</title>
+        <link>https://www.flightradar24.com/data/flights/LY4406</link>
+        <description><![CDATA[📅 Friday, February 6, 2026
+✈ Flight of the day: LY4406 (El Al)
+🛫 From: John F Kennedy International
+🛬 To: Richmond International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/LY4406]]></description>
+        <pubDate>Fri, 06 Feb 2026 10:31:27 GMT</pubDate>
+        <guid>LY4406-2026-02-06</guid>
       </item>
     </channel>
   </rss>
