@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LY4406 - El Al</title>
-        <link>https://www.flightradar24.com/data/flights/LY4406</link>
-        <description><![CDATA[📅 Friday, February 6, 2026
-✈ Flight of the day: LY4406 (El Al)
-🛫 From: John F Kennedy International
-🛬 To: Richmond International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/LY4406]]></description>
-        <pubDate>Fri, 06 Feb 2026 10:31:27 GMT</pubDate>
-        <guid>LY4406-2026-02-06</guid>
+        <title>Flight 2M1044 - Maya Island Air</title>
+        <link>https://www.flightradar24.com/data/flights/2M1044</link>
+        <description><![CDATA[📅 Saturday, February 7, 2026
+✈ Flight of the day: 2M1044 (Maya Island Air)
+🛫 From: Unknown
+🛬 To: Unknown
+🔗 Track live here: https://www.flightradar24.com/data/flights/2M1044]]></description>
+        <pubDate>Sat, 07 Feb 2026 10:17:20 GMT</pubDate>
+        <guid>2M1044-2026-02-07</guid>
       </item>
     </channel>
   </rss>
