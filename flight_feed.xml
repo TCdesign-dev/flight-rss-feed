@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 2M1044 - Maya Island Air</title>
-        <link>https://www.flightradar24.com/data/flights/2M1044</link>
-        <description><![CDATA[📅 Saturday, February 7, 2026
-✈ Flight of the day: 2M1044 (Maya Island Air)
-🛫 From: Unknown
-🛬 To: Unknown
-🔗 Track live here: https://www.flightradar24.com/data/flights/2M1044]]></description>
-        <pubDate>Sat, 07 Feb 2026 10:17:20 GMT</pubDate>
-        <guid>2M1044-2026-02-07</guid>
+        <title>Flight KE3387 - Korean Air</title>
+        <link>https://www.flightradar24.com/data/flights/KE3387</link>
+        <description><![CDATA[📅 Sunday, February 8, 2026
+✈ Flight of the day: KE3387 (Korean Air)
+🛫 From: Detroit Metropolitan Wayne County
+🛬 To: Buffalo Niagara International
+🔗 Track live here: https://www.flightradar24.com/data/flights/KE3387]]></description>
+        <pubDate>Sun, 08 Feb 2026 10:18:34 GMT</pubDate>
+        <guid>KE3387-2026-02-08</guid>
       </item>
     </channel>
   </rss>
