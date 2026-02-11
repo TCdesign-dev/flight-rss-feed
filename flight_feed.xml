@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 1I - NetJets Aviation</title>
-        <link>https://www.flightradar24.com/data/flights/1I</link>
-        <description><![CDATA[📅 Tuesday, February 10, 2026
-✈ Flight of the day: 1I (NetJets Aviation)
-🛫 From: Marsh Harbour Airport
-🛬 To: Palm Beach International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/1I]]></description>
-        <pubDate>Tue, 10 Feb 2026 10:46:10 GMT</pubDate>
-        <guid>1I-2026-02-10</guid>
+        <title>Flight WS6965 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS6965</link>
+        <description><![CDATA[📅 Wednesday, February 11, 2026
+✈ Flight of the day: WS6965 (WestJet)
+🛫 From: Detroit Metropolitan Wayne County
+🛬 To: Cherry Capital Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS6965]]></description>
+        <pubDate>Wed, 11 Feb 2026 10:40:58 GMT</pubDate>
+        <guid>WS6965-2026-02-11</guid>
       </item>
     </channel>
   </rss>
