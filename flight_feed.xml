@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS6965 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS6965</link>
-        <description><![CDATA[📅 Wednesday, February 11, 2026
-✈ Flight of the day: WS6965 (WestJet)
-🛫 From: Detroit Metropolitan Wayne County
-🛬 To: Cherry Capital Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS6965]]></description>
-        <pubDate>Wed, 11 Feb 2026 10:40:58 GMT</pubDate>
-        <guid>WS6965-2026-02-11</guid>
+        <title>Flight DL6349 - Delta Air Lines</title>
+        <link>https://www.flightradar24.com/data/flights/DL6349</link>
+        <description><![CDATA[📅 Thursday, February 12, 2026
+✈ Flight of the day: DL6349 (Delta Air Lines)
+🛫 From: Galeao Antonio Carlos Jobim
+🛬 To: Ezeiza Ministro Pistarini
+🔗 Track live here: https://www.flightradar24.com/data/flights/DL6349]]></description>
+        <pubDate>Thu, 12 Feb 2026 10:36:32 GMT</pubDate>
+        <guid>DL6349-2026-02-12</guid>
       </item>
     </channel>
   </rss>
