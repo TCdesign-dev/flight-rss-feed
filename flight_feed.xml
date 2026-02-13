@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight DL6349 - Delta Air Lines</title>
-        <link>https://www.flightradar24.com/data/flights/DL6349</link>
-        <description><![CDATA[📅 Thursday, February 12, 2026
-✈ Flight of the day: DL6349 (Delta Air Lines)
-🛫 From: Galeao Antonio Carlos Jobim
-🛬 To: Ezeiza Ministro Pistarini
-🔗 Track live here: https://www.flightradar24.com/data/flights/DL6349]]></description>
-        <pubDate>Thu, 12 Feb 2026 10:36:32 GMT</pubDate>
-        <guid>DL6349-2026-02-12</guid>
+        <title>Flight LXJ375 - Flexjet</title>
+        <link>https://www.flightradar24.com/data/flights/LXJ375</link>
+        <description><![CDATA[📅 Friday, February 13, 2026
+✈ Flight of the day: LXJ375 (Flexjet)
+🛫 From: Charleston Executive Airport
+🛬 To: Orlando International
+🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ375]]></description>
+        <pubDate>Fri, 13 Feb 2026 10:32:07 GMT</pubDate>
+        <guid>LXJ375-2026-02-13</guid>
       </item>
     </channel>
   </rss>
