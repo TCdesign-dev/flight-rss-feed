@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 1I815 - NetJets Aviation</title>
-        <link>https://www.flightradar24.com/data/flights/1I815</link>
-        <description><![CDATA[📅 Saturday, February 14, 2026
-✈ Flight of the day: 1I815 (NetJets Aviation)
-🛫 From: Willow Run
-🛬 To: Buffalo Niagara International
-🔗 Track live here: https://www.flightradar24.com/data/flights/1I815]]></description>
-        <pubDate>Sat, 14 Feb 2026 10:18:20 GMT</pubDate>
-        <guid>1I815-2026-02-14</guid>
+        <title>Flight 2M1046 - Maya Island Air</title>
+        <link>https://www.flightradar24.com/data/flights/2M1046</link>
+        <description><![CDATA[📅 Sunday, February 15, 2026
+✈ Flight of the day: 2M1046 (Maya Island Air)
+🛫 From: Unknown
+🛬 To: Philip S. W. Goldson International
+🔗 Track live here: https://www.flightradar24.com/data/flights/2M1046]]></description>
+        <pubDate>Sun, 15 Feb 2026 10:18:39 GMT</pubDate>
+        <guid>2M1046-2026-02-15</guid>
       </item>
     </channel>
   </rss>
