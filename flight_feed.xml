@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 2M1046 - Maya Island Air</title>
-        <link>https://www.flightradar24.com/data/flights/2M1046</link>
-        <description><![CDATA[📅 Sunday, February 15, 2026
-✈ Flight of the day: 2M1046 (Maya Island Air)
-🛫 From: Unknown
-🛬 To: Philip S. W. Goldson International
-🔗 Track live here: https://www.flightradar24.com/data/flights/2M1046]]></description>
-        <pubDate>Sun, 15 Feb 2026 10:18:39 GMT</pubDate>
-        <guid>2M1046-2026-02-15</guid>
+        <title>Flight WN8808 - Southwest Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/WN8808</link>
+        <description><![CDATA[📅 Monday, February 16, 2026
+✈ Flight of the day: WN8808 (Southwest Airlines)
+🛫 From: Fort Lauderdale–Hollywood International
+🛬 To: Tampa International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WN8808]]></description>
+        <pubDate>Mon, 16 Feb 2026 10:41:21 GMT</pubDate>
+        <guid>WN8808-2026-02-16</guid>
       </item>
     </channel>
   </rss>
