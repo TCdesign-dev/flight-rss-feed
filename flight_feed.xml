@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WN8808 - Southwest Airlines</title>
-        <link>https://www.flightradar24.com/data/flights/WN8808</link>
-        <description><![CDATA[📅 Monday, February 16, 2026
-✈ Flight of the day: WN8808 (Southwest Airlines)
-🛫 From: Fort Lauderdale–Hollywood International
-🛬 To: Tampa International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WN8808]]></description>
-        <pubDate>Mon, 16 Feb 2026 10:41:21 GMT</pubDate>
-        <guid>WN8808-2026-02-16</guid>
+        <title>Flight NG322 - Aero Contractors</title>
+        <link>https://www.flightradar24.com/data/flights/NG322</link>
+        <description><![CDATA[📅 Tuesday, February 17, 2026
+✈ Flight of the day: NG322 (Aero Contractors)
+🛫 From: Marsh Harbour Airport
+🛬 To: Fort Lauderdale–Hollywood International
+🔗 Track live here: https://www.flightradar24.com/data/flights/NG322]]></description>
+        <pubDate>Tue, 17 Feb 2026 10:36:58 GMT</pubDate>
+        <guid>NG322-2026-02-17</guid>
       </item>
     </channel>
   </rss>
