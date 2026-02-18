@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NG322 - Aero Contractors</title>
-        <link>https://www.flightradar24.com/data/flights/NG322</link>
-        <description><![CDATA[📅 Tuesday, February 17, 2026
-✈ Flight of the day: NG322 (Aero Contractors)
-🛫 From: Marsh Harbour Airport
-🛬 To: Fort Lauderdale–Hollywood International
-🔗 Track live here: https://www.flightradar24.com/data/flights/NG322]]></description>
-        <pubDate>Tue, 17 Feb 2026 10:36:58 GMT</pubDate>
-        <guid>NG322-2026-02-17</guid>
+        <title>Flight 9R8845 - SATENA</title>
+        <link>https://www.flightradar24.com/data/flights/9R8845</link>
+        <description><![CDATA[📅 Wednesday, February 18, 2026
+✈ Flight of the day: 9R8845 (SATENA)
+🛫 From: Unknown
+🛬 To: Enrique Olaya Herrera International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/9R8845]]></description>
+        <pubDate>Wed, 18 Feb 2026 10:36:17 GMT</pubDate>
+        <guid>9R8845-2026-02-18</guid>
       </item>
     </channel>
   </rss>
