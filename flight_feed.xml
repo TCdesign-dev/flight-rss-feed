@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight VE7869 - EasyFly</title>
-        <link>https://www.flightradar24.com/data/flights/VE7869</link>
-        <description><![CDATA[📅 Thursday, February 19, 2026
-✈ Flight of the day: VE7869 (EasyFly)
-🛫 From: Los Colonizadores
-🛬 To: Palo Negro
-🔗 Track live here: https://www.flightradar24.com/data/flights/VE7869]]></description>
-        <pubDate>Thu, 19 Feb 2026 10:35:15 GMT</pubDate>
-        <guid>VE7869-2026-02-19</guid>
+        <title>Flight 1I964 - NetJets Aviation</title>
+        <link>https://www.flightradar24.com/data/flights/1I964</link>
+        <description><![CDATA[📅 Friday, February 20, 2026
+✈ Flight of the day: 1I964 (NetJets Aviation)
+🛫 From: Fulton County
+🛬 To: St. Petersburg-Clearwater International
+🔗 Track live here: https://www.flightradar24.com/data/flights/1I964]]></description>
+        <pubDate>Fri, 20 Feb 2026 10:29:27 GMT</pubDate>
+        <guid>1I964-2026-02-20</guid>
       </item>
     </channel>
   </rss>
