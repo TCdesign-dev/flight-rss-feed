@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 1I964 - NetJets Aviation</title>
-        <link>https://www.flightradar24.com/data/flights/1I964</link>
-        <description><![CDATA[📅 Friday, February 20, 2026
-✈ Flight of the day: 1I964 (NetJets Aviation)
-🛫 From: Fulton County
-🛬 To: St. Petersburg-Clearwater International
-🔗 Track live here: https://www.flightradar24.com/data/flights/1I964]]></description>
-        <pubDate>Fri, 20 Feb 2026 10:29:27 GMT</pubDate>
-        <guid>1I964-2026-02-20</guid>
+        <title>Flight 2M2136 - Maya Island Air</title>
+        <link>https://www.flightradar24.com/data/flights/2M2136</link>
+        <description><![CDATA[📅 Saturday, February 21, 2026
+✈ Flight of the day: 2M2136 (Maya Island Air)
+🛫 From: Unknown
+🛬 To: Philip S. W. Goldson International
+🔗 Track live here: https://www.flightradar24.com/data/flights/2M2136]]></description>
+        <pubDate>Sat, 21 Feb 2026 10:18:08 GMT</pubDate>
+        <guid>2M2136-2026-02-21</guid>
       </item>
     </channel>
   </rss>
