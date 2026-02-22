@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 2M2136 - Maya Island Air</title>
-        <link>https://www.flightradar24.com/data/flights/2M2136</link>
-        <description><![CDATA[📅 Saturday, February 21, 2026
-✈ Flight of the day: 2M2136 (Maya Island Air)
+        <title>Flight 2M1044 - Maya Island Air</title>
+        <link>https://www.flightradar24.com/data/flights/2M1044</link>
+        <description><![CDATA[📅 Sunday, February 22, 2026
+✈ Flight of the day: 2M1044 (Maya Island Air)
 🛫 From: Unknown
-🛬 To: Philip S. W. Goldson International
-🔗 Track live here: https://www.flightradar24.com/data/flights/2M2136]]></description>
-        <pubDate>Sat, 21 Feb 2026 10:18:08 GMT</pubDate>
-        <guid>2M2136-2026-02-21</guid>
+🛬 To: Unknown
+🔗 Track live here: https://www.flightradar24.com/data/flights/2M1044]]></description>
+        <pubDate>Sun, 22 Feb 2026 10:17:02 GMT</pubDate>
+        <guid>2M1044-2026-02-22</guid>
       </item>
     </channel>
   </rss>
