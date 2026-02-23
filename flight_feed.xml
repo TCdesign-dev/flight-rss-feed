@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 2M1044 - Maya Island Air</title>
-        <link>https://www.flightradar24.com/data/flights/2M1044</link>
-        <description><![CDATA[📅 Sunday, February 22, 2026
-✈ Flight of the day: 2M1044 (Maya Island Air)
-🛫 From: Unknown
-🛬 To: Unknown
-🔗 Track live here: https://www.flightradar24.com/data/flights/2M1044]]></description>
-        <pubDate>Sun, 22 Feb 2026 10:17:02 GMT</pubDate>
-        <guid>2M1044-2026-02-22</guid>
+        <title>Flight WS7318 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS7318</link>
+        <description><![CDATA[📅 Monday, February 23, 2026
+✈ Flight of the day: WS7318 (WestJet)
+🛫 From: Hartsfield-jackson Atlanta International
+🛬 To: Dothan Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS7318]]></description>
+        <pubDate>Mon, 23 Feb 2026 10:41:45 GMT</pubDate>
+        <guid>WS7318-2026-02-23</guid>
       </item>
     </channel>
   </rss>
