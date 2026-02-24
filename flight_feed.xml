@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS7318 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS7318</link>
-        <description><![CDATA[📅 Monday, February 23, 2026
-✈ Flight of the day: WS7318 (WestJet)
+        <title>Flight WS8008 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS8008</link>
+        <description><![CDATA[📅 Tuesday, February 24, 2026
+✈ Flight of the day: WS8008 (WestJet)
 🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Dothan Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS7318]]></description>
-        <pubDate>Mon, 23 Feb 2026 10:41:45 GMT</pubDate>
-        <guid>WS7318-2026-02-23</guid>
+🛬 To: Orlando International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS8008]]></description>
+        <pubDate>Tue, 24 Feb 2026 10:39:36 GMT</pubDate>
+        <guid>WS8008-2026-02-24</guid>
       </item>
     </channel>
   </rss>
