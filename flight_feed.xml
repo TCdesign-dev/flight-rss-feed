@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS8008 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS8008</link>
-        <description><![CDATA[📅 Tuesday, February 24, 2026
-✈ Flight of the day: WS8008 (WestJet)
-🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Orlando International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS8008]]></description>
-        <pubDate>Tue, 24 Feb 2026 10:39:36 GMT</pubDate>
-        <guid>WS8008-2026-02-24</guid>
+        <title>Flight 1I475 - NetJets Aviation</title>
+        <link>https://www.flightradar24.com/data/flights/1I475</link>
+        <description><![CDATA[📅 Wednesday, February 25, 2026
+✈ Flight of the day: 1I475 (NetJets Aviation)
+🛫 From: Hilton Head
+🛬 To: Hartsfield-jackson Atlanta International
+🔗 Track live here: https://www.flightradar24.com/data/flights/1I475]]></description>
+        <pubDate>Wed, 25 Feb 2026 10:41:55 GMT</pubDate>
+        <guid>1I475-2026-02-25</guid>
       </item>
     </channel>
   </rss>
