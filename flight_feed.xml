@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 1I475 - NetJets Aviation</title>
-        <link>https://www.flightradar24.com/data/flights/1I475</link>
-        <description><![CDATA[📅 Wednesday, February 25, 2026
-✈ Flight of the day: 1I475 (NetJets Aviation)
-🛫 From: Hilton Head
-🛬 To: Hartsfield-jackson Atlanta International
-🔗 Track live here: https://www.flightradar24.com/data/flights/1I475]]></description>
-        <pubDate>Wed, 25 Feb 2026 10:41:55 GMT</pubDate>
-        <guid>1I475-2026-02-25</guid>
+        <title>Flight BB136 - Seaborne Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/BB136</link>
+        <description><![CDATA[📅 Thursday, February 26, 2026
+✈ Flight of the day: BB136 (Seaborne Airlines)
+🛫 From: Unknown
+🛬 To: SPB
+🔗 Track live here: https://www.flightradar24.com/data/flights/BB136]]></description>
+        <pubDate>Thu, 26 Feb 2026 10:37:30 GMT</pubDate>
+        <guid>BB136-2026-02-26</guid>
       </item>
     </channel>
   </rss>
