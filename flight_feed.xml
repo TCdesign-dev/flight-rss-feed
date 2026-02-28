@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS7027 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS7027</link>
-        <description><![CDATA[📅 Friday, February 27, 2026
-✈ Flight of the day: WS7027 (WestJet)
-🛫 From: John F Kennedy International
-🛬 To: Washington Dulles International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS7027]]></description>
-        <pubDate>Fri, 27 Feb 2026 10:29:14 GMT</pubDate>
-        <guid>WS7027-2026-02-27</guid>
+        <title>Flight 1I548 - NetJets Aviation</title>
+        <link>https://www.flightradar24.com/data/flights/1I548</link>
+        <description><![CDATA[📅 Saturday, February 28, 2026
+✈ Flight of the day: 1I548 (NetJets Aviation)
+🛫 From: Witham Field
+🛬 To: Dekalb-Peachtree
+🔗 Track live here: https://www.flightradar24.com/data/flights/1I548]]></description>
+        <pubDate>Sat, 28 Feb 2026 10:14:51 GMT</pubDate>
+        <guid>1I548-2026-02-28</guid>
       </item>
     </channel>
   </rss>
