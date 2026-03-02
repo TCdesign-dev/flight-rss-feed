@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS6883 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS6883</link>
-        <description><![CDATA[📅 Sunday, March 1, 2026
-✈ Flight of the day: WS6883 (WestJet)
-🛫 From: Detroit Metropolitan Wayne County
-🛬 To: Kalamazoo/Battle Creek International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS6883]]></description>
-        <pubDate>Sun, 01 Mar 2026 10:17:17 GMT</pubDate>
-        <guid>WS6883-2026-03-01</guid>
+        <title>Flight N8702 - National Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/N8702</link>
+        <description><![CDATA[📅 Monday, March 2, 2026
+✈ Flight of the day: N8702 (National Airlines)
+🛫 From: Miami International Airport
+🛬 To: Aeropuerto de las Américas
+🔗 Track live here: https://www.flightradar24.com/data/flights/N8702]]></description>
+        <pubDate>Mon, 02 Mar 2026 10:36:11 GMT</pubDate>
+        <guid>N8702-2026-03-02</guid>
       </item>
     </channel>
   </rss>
