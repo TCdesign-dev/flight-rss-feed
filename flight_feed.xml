@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS8040 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS8040</link>
-        <description><![CDATA[📅 Tuesday, March 3, 2026
-✈ Flight of the day: WS8040 (WestJet)
+        <title>Flight WS7041 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS7041</link>
+        <description><![CDATA[📅 Wednesday, March 4, 2026
+✈ Flight of the day: WS7041 (WestJet)
 🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Memphis International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS8040]]></description>
-        <pubDate>Tue, 03 Mar 2026 10:31:06 GMT</pubDate>
-        <guid>WS8040-2026-03-03</guid>
+🛬 To: Gerald R. Ford International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS7041]]></description>
+        <pubDate>Wed, 04 Mar 2026 10:27:59 GMT</pubDate>
+        <guid>WS7041-2026-03-04</guid>
       </item>
     </channel>
   </rss>
