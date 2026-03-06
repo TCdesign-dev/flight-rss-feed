@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 3H615 - Air Inuit</title>
-        <link>https://www.flightradar24.com/data/flights/3H615</link>
-        <description><![CDATA[📅 Thursday, March 5, 2026
-✈ Flight of the day: 3H615 (Air Inuit)
-🛫 From: Akulivik
-🛬 To: Puvirnituq
-🔗 Track live here: https://www.flightradar24.com/data/flights/3H615]]></description>
-        <pubDate>Thu, 05 Mar 2026 10:31:28 GMT</pubDate>
-        <guid>3H615-2026-03-05</guid>
+        <title>Flight WS8040 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS8040</link>
+        <description><![CDATA[📅 Friday, March 6, 2026
+✈ Flight of the day: WS8040 (WestJet)
+🛫 From: Hartsfield-jackson Atlanta International
+🛬 To: Memphis International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS8040]]></description>
+        <pubDate>Fri, 06 Mar 2026 10:26:38 GMT</pubDate>
+        <guid>WS8040-2026-03-06</guid>
       </item>
     </channel>
   </rss>
