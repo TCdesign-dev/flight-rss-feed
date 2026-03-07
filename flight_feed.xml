@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS8040 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS8040</link>
-        <description><![CDATA[📅 Friday, March 6, 2026
-✈ Flight of the day: WS8040 (WestJet)
-🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Memphis International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS8040]]></description>
-        <pubDate>Fri, 06 Mar 2026 10:26:38 GMT</pubDate>
-        <guid>WS8040-2026-03-06</guid>
+        <title>Flight SK602 - SAS</title>
+        <link>https://www.flightradar24.com/data/flights/SK602</link>
+        <description><![CDATA[📅 Saturday, March 7, 2026
+✈ Flight of the day: SK602 (SAS)
+🛫 From: Zurich
+🛬 To: Kastrup
+🔗 Track live here: https://www.flightradar24.com/data/flights/SK602]]></description>
+        <pubDate>Sat, 07 Mar 2026 10:15:50 GMT</pubDate>
+        <guid>SK602-2026-03-07</guid>
       </item>
     </channel>
   </rss>
