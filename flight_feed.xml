@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight SK602 - SAS</title>
-        <link>https://www.flightradar24.com/data/flights/SK602</link>
-        <description><![CDATA[📅 Saturday, March 7, 2026
-✈ Flight of the day: SK602 (SAS)
-🛫 From: Zurich
-🛬 To: Kastrup
-🔗 Track live here: https://www.flightradar24.com/data/flights/SK602]]></description>
-        <pubDate>Sat, 07 Mar 2026 10:15:50 GMT</pubDate>
-        <guid>SK602-2026-03-07</guid>
+        <title>Flight IB8005 - Iberia</title>
+        <link>https://www.flightradar24.com/data/flights/IB8005</link>
+        <description><![CDATA[📅 Sunday, March 8, 2026
+✈ Flight of the day: IB8005 (Iberia)
+🛫 From: Dallas/Fort Worth International
+🛬 To: Springfield-Branson Rg
+🔗 Track live here: https://www.flightradar24.com/data/flights/IB8005]]></description>
+        <pubDate>Sun, 08 Mar 2026 10:17:12 GMT</pubDate>
+        <guid>IB8005-2026-03-08</guid>
       </item>
     </channel>
   </rss>
