@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NZ2033 - Air New Zealand</title>
-        <link>https://www.flightradar24.com/data/flights/NZ2033</link>
-        <description><![CDATA[📅 Monday, March 9, 2026
-✈ Flight of the day: NZ2033 (Air New Zealand)
-🛫 From: Chicago O'hare International
-🛬 To: Outagamie County
-🔗 Track live here: https://www.flightradar24.com/data/flights/NZ2033]]></description>
-        <pubDate>Mon, 09 Mar 2026 10:37:45 GMT</pubDate>
-        <guid>NZ2033-2026-03-09</guid>
+        <title>Flight NZ9770 - Air New Zealand</title>
+        <link>https://www.flightradar24.com/data/flights/NZ9770</link>
+        <description><![CDATA[📅 Tuesday, March 10, 2026
+✈ Flight of the day: NZ9770 (Air New Zealand)
+🛫 From: George Bush Intercontinental
+🛬 To: Corpus Christi International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/NZ9770]]></description>
+        <pubDate>Tue, 10 Mar 2026 10:31:13 GMT</pubDate>
+        <guid>NZ9770-2026-03-10</guid>
       </item>
     </channel>
   </rss>
