@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NZ9770 - Air New Zealand</title>
-        <link>https://www.flightradar24.com/data/flights/NZ9770</link>
-        <description><![CDATA[📅 Tuesday, March 10, 2026
-✈ Flight of the day: NZ9770 (Air New Zealand)
-🛫 From: George Bush Intercontinental
-🛬 To: Corpus Christi International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/NZ9770]]></description>
-        <pubDate>Tue, 10 Mar 2026 10:31:13 GMT</pubDate>
-        <guid>NZ9770-2026-03-10</guid>
+        <title>Flight QF4730 - Qantas</title>
+        <link>https://www.flightradar24.com/data/flights/QF4730</link>
+        <description><![CDATA[📅 Wednesday, March 11, 2026
+✈ Flight of the day: QF4730 (Qantas)
+🛫 From: Dallas/Fort Worth International
+🛬 To: Tulsa International
+🔗 Track live here: https://www.flightradar24.com/data/flights/QF4730]]></description>
+        <pubDate>Wed, 11 Mar 2026 10:31:12 GMT</pubDate>
+        <guid>QF4730-2026-03-11</guid>
       </item>
     </channel>
   </rss>
