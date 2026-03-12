@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight QF4730 - Qantas</title>
-        <link>https://www.flightradar24.com/data/flights/QF4730</link>
-        <description><![CDATA[📅 Wednesday, March 11, 2026
-✈ Flight of the day: QF4730 (Qantas)
-🛫 From: Dallas/Fort Worth International
-🛬 To: Tulsa International
-🔗 Track live here: https://www.flightradar24.com/data/flights/QF4730]]></description>
-        <pubDate>Wed, 11 Mar 2026 10:31:12 GMT</pubDate>
-        <guid>QF4730-2026-03-11</guid>
+        <title>Flight 1I926 - NetJets Aviation</title>
+        <link>https://www.flightradar24.com/data/flights/1I926</link>
+        <description><![CDATA[📅 Thursday, March 12, 2026
+✈ Flight of the day: 1I926 (NetJets Aviation)
+🛫 From: Pal-Waukee
+🛬 To: Des Moines International
+🔗 Track live here: https://www.flightradar24.com/data/flights/1I926]]></description>
+        <pubDate>Thu, 12 Mar 2026 10:31:15 GMT</pubDate>
+        <guid>1I926-2026-03-12</guid>
       </item>
     </channel>
   </rss>
