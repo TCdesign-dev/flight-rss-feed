@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 1I926 - NetJets Aviation</title>
-        <link>https://www.flightradar24.com/data/flights/1I926</link>
-        <description><![CDATA[📅 Thursday, March 12, 2026
-✈ Flight of the day: 1I926 (NetJets Aviation)
-🛫 From: Pal-Waukee
-🛬 To: Des Moines International
-🔗 Track live here: https://www.flightradar24.com/data/flights/1I926]]></description>
-        <pubDate>Thu, 12 Mar 2026 10:31:15 GMT</pubDate>
-        <guid>1I926-2026-03-12</guid>
+        <title>Flight 2M2136 - Maya Island Air</title>
+        <link>https://www.flightradar24.com/data/flights/2M2136</link>
+        <description><![CDATA[📅 Friday, March 13, 2026
+✈ Flight of the day: 2M2136 (Maya Island Air)
+🛫 From: Unknown
+🛬 To: Philip S. W. Goldson International
+🔗 Track live here: https://www.flightradar24.com/data/flights/2M2136]]></description>
+        <pubDate>Fri, 13 Mar 2026 10:27:45 GMT</pubDate>
+        <guid>2M2136-2026-03-13</guid>
       </item>
     </channel>
   </rss>
