@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 1I969 - NetJets Aviation</title>
-        <link>https://www.flightradar24.com/data/flights/1I969</link>
-        <description><![CDATA[📅 Saturday, March 14, 2026
-✈ Flight of the day: 1I969 (NetJets Aviation)
-🛫 From: Naples
-🛬 To: Raleigh-durham International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/1I969]]></description>
-        <pubDate>Sat, 14 Mar 2026 10:20:00 GMT</pubDate>
-        <guid>1I969-2026-03-14</guid>
+        <title>Flight EI693 - Aer Lingus</title>
+        <link>https://www.flightradar24.com/data/flights/EI693</link>
+        <description><![CDATA[📅 Sunday, March 15, 2026
+✈ Flight of the day: EI693 (Aer Lingus)
+🛫 From: Düsseldorf International Airport
+🛬 To: Dublin International
+🔗 Track live here: https://www.flightradar24.com/data/flights/EI693]]></description>
+        <pubDate>Sun, 15 Mar 2026 10:20:58 GMT</pubDate>
+        <guid>EI693-2026-03-15</guid>
       </item>
     </channel>
   </rss>
