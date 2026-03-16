@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight EI693 - Aer Lingus</title>
-        <link>https://www.flightradar24.com/data/flights/EI693</link>
-        <description><![CDATA[📅 Sunday, March 15, 2026
-✈ Flight of the day: EI693 (Aer Lingus)
-🛫 From: Düsseldorf International Airport
-🛬 To: Dublin International
-🔗 Track live here: https://www.flightradar24.com/data/flights/EI693]]></description>
-        <pubDate>Sun, 15 Mar 2026 10:20:58 GMT</pubDate>
-        <guid>EI693-2026-03-15</guid>
+        <title>Flight KL5968 - KLM</title>
+        <link>https://www.flightradar24.com/data/flights/KL5968</link>
+        <description><![CDATA[📅 Monday, March 16, 2026
+✈ Flight of the day: KL5968 (KLM)
+🛫 From: Hartsfield-jackson Atlanta International
+🛬 To: Marsh Harbour Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/KL5968]]></description>
+        <pubDate>Mon, 16 Mar 2026 10:46:39 GMT</pubDate>
+        <guid>KL5968-2026-03-16</guid>
       </item>
     </channel>
   </rss>
