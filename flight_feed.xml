@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LXJ326 - Flexjet</title>
-        <link>https://www.flightradar24.com/data/flights/LXJ326</link>
-        <description><![CDATA[📅 Tuesday, March 17, 2026
-✈ Flight of the day: LXJ326 (Flexjet)
-🛫 From: Opa Locka
-🛬 To: Charleston, AFB Municipal
-🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ326]]></description>
-        <pubDate>Tue, 17 Mar 2026 10:42:06 GMT</pubDate>
-        <guid>LXJ326-2026-03-17</guid>
+        <title>Flight NZ2033 - Air New Zealand</title>
+        <link>https://www.flightradar24.com/data/flights/NZ2033</link>
+        <description><![CDATA[📅 Wednesday, March 18, 2026
+✈ Flight of the day: NZ2033 (Air New Zealand)
+🛫 From: Chicago O'hare International
+🛬 To: Outagamie County
+🔗 Track live here: https://www.flightradar24.com/data/flights/NZ2033]]></description>
+        <pubDate>Wed, 18 Mar 2026 10:42:26 GMT</pubDate>
+        <guid>NZ2033-2026-03-18</guid>
       </item>
     </channel>
   </rss>
