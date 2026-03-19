@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NZ2033 - Air New Zealand</title>
-        <link>https://www.flightradar24.com/data/flights/NZ2033</link>
-        <description><![CDATA[📅 Wednesday, March 18, 2026
-✈ Flight of the day: NZ2033 (Air New Zealand)
-🛫 From: Chicago O'hare International
-🛬 To: Outagamie County
-🔗 Track live here: https://www.flightradar24.com/data/flights/NZ2033]]></description>
-        <pubDate>Wed, 18 Mar 2026 10:42:26 GMT</pubDate>
-        <guid>NZ2033-2026-03-18</guid>
+        <title>Flight LA3361 - LATAM Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/LA3361</link>
+        <description><![CDATA[📅 Thursday, March 19, 2026
+✈ Flight of the day: LA3361 (LATAM Airlines)
+🛫 From: Sinop
+🛬 To: Aeroporto Internacional Guarulhos
+🔗 Track live here: https://www.flightradar24.com/data/flights/LA3361]]></description>
+        <pubDate>Thu, 19 Mar 2026 10:32:08 GMT</pubDate>
+        <guid>LA3361-2026-03-19</guid>
       </item>
     </channel>
   </rss>
