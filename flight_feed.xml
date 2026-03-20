@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LA3361 - LATAM Airlines</title>
-        <link>https://www.flightradar24.com/data/flights/LA3361</link>
-        <description><![CDATA[📅 Thursday, March 19, 2026
-✈ Flight of the day: LA3361 (LATAM Airlines)
-🛫 From: Sinop
-🛬 To: Aeroporto Internacional Guarulhos
-🔗 Track live here: https://www.flightradar24.com/data/flights/LA3361]]></description>
-        <pubDate>Thu, 19 Mar 2026 10:32:08 GMT</pubDate>
-        <guid>LA3361-2026-03-19</guid>
+        <title>Flight LXJ449 - Flexjet</title>
+        <link>https://www.flightradar24.com/data/flights/LXJ449</link>
+        <description><![CDATA[📅 Friday, March 20, 2026
+✈ Flight of the day: LXJ449 (Flexjet)
+🛫 From: Unknown
+🛬 To: William P Hobby
+🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ449]]></description>
+        <pubDate>Fri, 20 Mar 2026 10:29:58 GMT</pubDate>
+        <guid>LXJ449-2026-03-20</guid>
       </item>
     </channel>
   </rss>
