@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LXJ449 - Flexjet</title>
-        <link>https://www.flightradar24.com/data/flights/LXJ449</link>
-        <description><![CDATA[📅 Friday, March 20, 2026
-✈ Flight of the day: LXJ449 (Flexjet)
-🛫 From: Unknown
-🛬 To: William P Hobby
-🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ449]]></description>
-        <pubDate>Fri, 20 Mar 2026 10:29:58 GMT</pubDate>
-        <guid>LXJ449-2026-03-20</guid>
+        <title>Flight 1I333 - NetJets Aviation</title>
+        <link>https://www.flightradar24.com/data/flights/1I333</link>
+        <description><![CDATA[📅 Saturday, March 21, 2026
+✈ Flight of the day: 1I333 (NetJets Aviation)
+🛫 From: Naples
+🛬 To: Kilgore
+🔗 Track live here: https://www.flightradar24.com/data/flights/1I333]]></description>
+        <pubDate>Sat, 21 Mar 2026 10:18:41 GMT</pubDate>
+        <guid>1I333-2026-03-21</guid>
       </item>
     </channel>
   </rss>
