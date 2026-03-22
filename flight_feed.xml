@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 1I333 - NetJets Aviation</title>
-        <link>https://www.flightradar24.com/data/flights/1I333</link>
-        <description><![CDATA[📅 Saturday, March 21, 2026
-✈ Flight of the day: 1I333 (NetJets Aviation)
-🛫 From: Naples
-🛬 To: Kilgore
-🔗 Track live here: https://www.flightradar24.com/data/flights/1I333]]></description>
-        <pubDate>Sat, 21 Mar 2026 10:18:41 GMT</pubDate>
-        <guid>1I333-2026-03-21</guid>
+        <title>Flight JL8224 - Japan Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/JL8224</link>
+        <description><![CDATA[📅 Sunday, March 22, 2026
+✈ Flight of the day: JL8224 (Japan Airlines)
+🛫 From: Internacional Benito Juarez
+🛬 To: Las Bajadas
+🔗 Track live here: https://www.flightradar24.com/data/flights/JL8224]]></description>
+        <pubDate>Sun, 22 Mar 2026 10:19:16 GMT</pubDate>
+        <guid>JL8224-2026-03-22</guid>
       </item>
     </channel>
   </rss>
