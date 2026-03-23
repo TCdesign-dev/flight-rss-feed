@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight JL8224 - Japan Airlines</title>
-        <link>https://www.flightradar24.com/data/flights/JL8224</link>
-        <description><![CDATA[📅 Sunday, March 22, 2026
-✈ Flight of the day: JL8224 (Japan Airlines)
-🛫 From: Internacional Benito Juarez
-🛬 To: Las Bajadas
-🔗 Track live here: https://www.flightradar24.com/data/flights/JL8224]]></description>
-        <pubDate>Sun, 22 Mar 2026 10:19:16 GMT</pubDate>
-        <guid>JL8224-2026-03-22</guid>
+        <title>Flight 9M302 - Central Mountain Air</title>
+        <link>https://www.flightradar24.com/data/flights/9M302</link>
+        <description><![CDATA[📅 Monday, March 23, 2026
+✈ Flight of the day: 9M302 (Central Mountain Air)
+🛫 From: Natashquan
+🛬 To: Sept-Iles
+🔗 Track live here: https://www.flightradar24.com/data/flights/9M302]]></description>
+        <pubDate>Mon, 23 Mar 2026 10:44:37 GMT</pubDate>
+        <guid>9M302-2026-03-23</guid>
       </item>
     </channel>
   </rss>
