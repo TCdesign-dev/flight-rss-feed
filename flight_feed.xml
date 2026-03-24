@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 9M302 - Central Mountain Air</title>
-        <link>https://www.flightradar24.com/data/flights/9M302</link>
-        <description><![CDATA[📅 Monday, March 23, 2026
-✈ Flight of the day: 9M302 (Central Mountain Air)
-🛫 From: Natashquan
-🛬 To: Sept-Iles
-🔗 Track live here: https://www.flightradar24.com/data/flights/9M302]]></description>
-        <pubDate>Mon, 23 Mar 2026 10:44:37 GMT</pubDate>
-        <guid>9M302-2026-03-23</guid>
+        <title>Flight PD6163 - Porter Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/PD6163</link>
+        <description><![CDATA[📅 Tuesday, March 24, 2026
+✈ Flight of the day: PD6163 (Porter Airlines)
+🛫 From: LaGuardia
+🛬 To: Raleigh-durham International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/PD6163]]></description>
+        <pubDate>Tue, 24 Mar 2026 10:42:33 GMT</pubDate>
+        <guid>PD6163-2026-03-24</guid>
       </item>
     </channel>
   </rss>
