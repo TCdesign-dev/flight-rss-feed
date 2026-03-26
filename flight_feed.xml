@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WN8804 - Southwest Airlines</title>
-        <link>https://www.flightradar24.com/data/flights/WN8804</link>
-        <description><![CDATA[📅 Wednesday, March 25, 2026
-✈ Flight of the day: WN8804 (Southwest Airlines)
-🛫 From: Love Field
-🛬 To: Eppley Airfield
-🔗 Track live here: https://www.flightradar24.com/data/flights/WN8804]]></description>
-        <pubDate>Wed, 25 Mar 2026 10:40:14 GMT</pubDate>
-        <guid>WN8804-2026-03-25</guid>
+        <title>Flight 1I552 - NetJets Aviation</title>
+        <link>https://www.flightradar24.com/data/flights/1I552</link>
+        <description><![CDATA[📅 Thursday, March 26, 2026
+✈ Flight of the day: 1I552 (NetJets Aviation)
+🛫 From: Downtown
+🛬 To: Des Moines International
+🔗 Track live here: https://www.flightradar24.com/data/flights/1I552]]></description>
+        <pubDate>Thu, 26 Mar 2026 10:44:44 GMT</pubDate>
+        <guid>1I552-2026-03-26</guid>
       </item>
     </channel>
   </rss>
