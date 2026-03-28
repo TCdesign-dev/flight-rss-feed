@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight CM3730 - Copa Airlines</title>
-        <link>https://www.flightradar24.com/data/flights/CM3730</link>
-        <description><![CDATA[📅 Friday, March 27, 2026
-✈ Flight of the day: CM3730 (Copa Airlines)
-🛫 From: Presidente Juscelino Kubitschek
-🛬 To: Congonhas International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/CM3730]]></description>
-        <pubDate>Fri, 27 Mar 2026 10:39:44 GMT</pubDate>
-        <guid>CM3730-2026-03-27</guid>
+        <title>Flight QR9031 - Qatar Airways</title>
+        <link>https://www.flightradar24.com/data/flights/QR9031</link>
+        <description><![CDATA[📅 Saturday, March 28, 2026
+✈ Flight of the day: QR9031 (Qatar Airways)
+🛫 From: Miami International Airport
+🛬 To: La Union
+🔗 Track live here: https://www.flightradar24.com/data/flights/QR9031]]></description>
+        <pubDate>Sat, 28 Mar 2026 10:24:04 GMT</pubDate>
+        <guid>QR9031-2026-03-28</guid>
       </item>
     </channel>
   </rss>
