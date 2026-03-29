@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight QR9031 - Qatar Airways</title>
-        <link>https://www.flightradar24.com/data/flights/QR9031</link>
-        <description><![CDATA[📅 Saturday, March 28, 2026
-✈ Flight of the day: QR9031 (Qatar Airways)
-🛫 From: Miami International Airport
-🛬 To: La Union
-🔗 Track live here: https://www.flightradar24.com/data/flights/QR9031]]></description>
-        <pubDate>Sat, 28 Mar 2026 10:24:04 GMT</pubDate>
-        <guid>QR9031-2026-03-28</guid>
+        <title>Flight LXJ358 - Flexjet</title>
+        <link>https://www.flightradar24.com/data/flights/LXJ358</link>
+        <description><![CDATA[📅 Sunday, March 29, 2026
+✈ Flight of the day: LXJ358 (Flexjet)
+🛫 From: Leflore
+🛬 To: Charlotte Douglas
+🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ358]]></description>
+        <pubDate>Sun, 29 Mar 2026 10:24:20 GMT</pubDate>
+        <guid>LXJ358-2026-03-29</guid>
       </item>
     </channel>
   </rss>
