@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight S654 - Sunrise Airways</title>
-        <link>https://www.flightradar24.com/data/flights/S654</link>
-        <description><![CDATA[📅 Monday, March 30, 2026
-✈ Flight of the day: S654 (Sunrise Airways)
-🛫 From: Unknown
-🛬 To: Toussaint Louverture International
-🔗 Track live here: https://www.flightradar24.com/data/flights/S654]]></description>
-        <pubDate>Mon, 30 Mar 2026 10:55:21 GMT</pubDate>
-        <guid>S654-2026-03-30</guid>
+        <title>Flight EW862 - Eurowings</title>
+        <link>https://www.flightradar24.com/data/flights/EW862</link>
+        <description><![CDATA[📅 Tuesday, March 31, 2026
+✈ Flight of the day: EW862 (Eurowings)
+🛫 From: Cologne/bonn
+🛬 To: Capodichino
+🔗 Track live here: https://www.flightradar24.com/data/flights/EW862]]></description>
+        <pubDate>Tue, 31 Mar 2026 10:45:38 GMT</pubDate>
+        <guid>EW862-2026-03-31</guid>
       </item>
     </channel>
   </rss>
