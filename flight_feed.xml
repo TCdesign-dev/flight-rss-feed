@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight EW862 - Eurowings</title>
-        <link>https://www.flightradar24.com/data/flights/EW862</link>
-        <description><![CDATA[📅 Tuesday, March 31, 2026
-✈ Flight of the day: EW862 (Eurowings)
-🛫 From: Cologne/bonn
-🛬 To: Capodichino
-🔗 Track live here: https://www.flightradar24.com/data/flights/EW862]]></description>
-        <pubDate>Tue, 31 Mar 2026 10:45:38 GMT</pubDate>
-        <guid>EW862-2026-03-31</guid>
+        <title>Flight WS5499 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS5499</link>
+        <description><![CDATA[📅 Wednesday, April 1, 2026
+✈ Flight of the day: WS5499 (WestJet)
+🛫 From: Hartsfield-jackson Atlanta International
+🛬 To: Harrisburg International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS5499]]></description>
+        <pubDate>Wed, 01 Apr 2026 10:47:09 GMT</pubDate>
+        <guid>WS5499-2026-04-01</guid>
       </item>
     </channel>
   </rss>
