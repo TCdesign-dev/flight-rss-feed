@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS5499 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS5499</link>
-        <description><![CDATA[📅 Wednesday, April 1, 2026
-✈ Flight of the day: WS5499 (WestJet)
-🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Harrisburg International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS5499]]></description>
-        <pubDate>Wed, 01 Apr 2026 10:47:09 GMT</pubDate>
-        <guid>WS5499-2026-04-01</guid>
+        <title>Flight NZ2237 - Air New Zealand</title>
+        <link>https://www.flightradar24.com/data/flights/NZ2237</link>
+        <description><![CDATA[📅 Thursday, April 2, 2026
+✈ Flight of the day: NZ2237 (Air New Zealand)
+🛫 From: Chicago O'hare International
+🛬 To: Cincinnati/Northern Kentucky
+🔗 Track live here: https://www.flightradar24.com/data/flights/NZ2237]]></description>
+        <pubDate>Thu, 02 Apr 2026 10:43:25 GMT</pubDate>
+        <guid>NZ2237-2026-04-02</guid>
       </item>
     </channel>
   </rss>
