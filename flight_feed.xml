@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NZ2237 - Air New Zealand</title>
-        <link>https://www.flightradar24.com/data/flights/NZ2237</link>
-        <description><![CDATA[📅 Thursday, April 2, 2026
-✈ Flight of the day: NZ2237 (Air New Zealand)
-🛫 From: Chicago O'hare International
-🛬 To: Cincinnati/Northern Kentucky
-🔗 Track live here: https://www.flightradar24.com/data/flights/NZ2237]]></description>
-        <pubDate>Thu, 02 Apr 2026 10:43:25 GMT</pubDate>
-        <guid>NZ2237-2026-04-02</guid>
+        <title>Flight LX9704 - SWISS</title>
+        <link>https://www.flightradar24.com/data/flights/LX9704</link>
+        <description><![CDATA[📅 Friday, April 3, 2026
+✈ Flight of the day: LX9704 (SWISS)
+🛫 From: Aeroporto Internacional Guarulhos
+🛬 To: Presidente Juscelino Kubitschek
+🔗 Track live here: https://www.flightradar24.com/data/flights/LX9704]]></description>
+        <pubDate>Fri, 03 Apr 2026 10:36:06 GMT</pubDate>
+        <guid>LX9704-2026-04-03</guid>
       </item>
     </channel>
   </rss>
