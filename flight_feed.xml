@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LX9704 - SWISS</title>
-        <link>https://www.flightradar24.com/data/flights/LX9704</link>
-        <description><![CDATA[📅 Friday, April 3, 2026
-✈ Flight of the day: LX9704 (SWISS)
-🛫 From: Aeroporto Internacional Guarulhos
-🛬 To: Presidente Juscelino Kubitschek
-🔗 Track live here: https://www.flightradar24.com/data/flights/LX9704]]></description>
-        <pubDate>Fri, 03 Apr 2026 10:36:06 GMT</pubDate>
-        <guid>LX9704-2026-04-03</guid>
+        <title>Flight WS7041 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS7041</link>
+        <description><![CDATA[📅 Saturday, April 4, 2026
+✈ Flight of the day: WS7041 (WestJet)
+🛫 From: Hartsfield-jackson Atlanta International
+🛬 To: Gerald R. Ford International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS7041]]></description>
+        <pubDate>Sat, 04 Apr 2026 10:25:12 GMT</pubDate>
+        <guid>WS7041-2026-04-04</guid>
       </item>
     </channel>
   </rss>
