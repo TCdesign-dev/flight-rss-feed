@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS7545 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS7545</link>
-        <description><![CDATA[📅 Sunday, April 5, 2026
-✈ Flight of the day: WS7545 (WestJet)
-🛫 From: LaGuardia
-🛬 To: Cincinnati/Northern Kentucky
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS7545]]></description>
-        <pubDate>Sun, 05 Apr 2026 10:25:08 GMT</pubDate>
-        <guid>WS7545-2026-04-05</guid>
+        <title>Flight LXJ100 - Flexjet</title>
+        <link>https://www.flightradar24.com/data/flights/LXJ100</link>
+        <description><![CDATA[📅 Monday, April 6, 2026
+✈ Flight of the day: LXJ100 (Flexjet)
+🛫 From: Teterboro
+🛬 To: Palm Beach International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ100]]></description>
+        <pubDate>Mon, 06 Apr 2026 10:48:59 GMT</pubDate>
+        <guid>LXJ100-2026-04-06</guid>
       </item>
     </channel>
   </rss>
