@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LXJ100 - Flexjet</title>
-        <link>https://www.flightradar24.com/data/flights/LXJ100</link>
-        <description><![CDATA[📅 Monday, April 6, 2026
-✈ Flight of the day: LXJ100 (Flexjet)
-🛫 From: Teterboro
-🛬 To: Palm Beach International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ100]]></description>
-        <pubDate>Mon, 06 Apr 2026 10:48:59 GMT</pubDate>
-        <guid>LXJ100-2026-04-06</guid>
+        <title>Flight NZ2405 - Air New Zealand</title>
+        <link>https://www.flightradar24.com/data/flights/NZ2405</link>
+        <description><![CDATA[📅 Tuesday, April 7, 2026
+✈ Flight of the day: NZ2405 (Air New Zealand)
+🛫 From: Chicago O'hare International
+🛬 To: Gerald R. Ford International
+🔗 Track live here: https://www.flightradar24.com/data/flights/NZ2405]]></description>
+        <pubDate>Tue, 07 Apr 2026 10:48:35 GMT</pubDate>
+        <guid>NZ2405-2026-04-07</guid>
       </item>
     </channel>
   </rss>
