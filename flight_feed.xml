@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NZ2405 - Air New Zealand</title>
-        <link>https://www.flightradar24.com/data/flights/NZ2405</link>
-        <description><![CDATA[📅 Tuesday, April 7, 2026
-✈ Flight of the day: NZ2405 (Air New Zealand)
+        <title>Flight OO5477 - SkyWest Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/OO5477</link>
+        <description><![CDATA[📅 Wednesday, April 8, 2026
+✈ Flight of the day: OO5477 (SkyWest Airlines)
 🛫 From: Chicago O'hare International
-🛬 To: Gerald R. Ford International
-🔗 Track live here: https://www.flightradar24.com/data/flights/NZ2405]]></description>
-        <pubDate>Tue, 07 Apr 2026 10:48:35 GMT</pubDate>
-        <guid>NZ2405-2026-04-07</guid>
+🛬 To: Austin-straubel Field
+🔗 Track live here: https://www.flightradar24.com/data/flights/OO5477]]></description>
+        <pubDate>Wed, 08 Apr 2026 10:49:51 GMT</pubDate>
+        <guid>OO5477-2026-04-08</guid>
       </item>
     </channel>
   </rss>
