@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AM8659 - Aeromexico</title>
-        <link>https://www.flightradar24.com/data/flights/AM8659</link>
-        <description><![CDATA[📅 Saturday, April 11, 2026
-✈ Flight of the day: AM8659 (Aeromexico)
-🛫 From: Jorge Chavez International
-🛬 To: Yanamilla
-🔗 Track live here: https://www.flightradar24.com/data/flights/AM8659]]></description>
-        <pubDate>Sat, 11 Apr 2026 10:26:10 GMT</pubDate>
-        <guid>AM8659-2026-04-11</guid>
+        <title>Flight H12288 - Unknown Airline</title>
+        <link>https://www.flightradar24.com/data/flights/H12288</link>
+        <description><![CDATA[📅 Sunday, April 12, 2026
+✈ Flight of the day: H12288 (Unknown Airline)
+🛫 From: Unknown
+🛬 To: Philip S. W. Goldson International
+🔗 Track live here: https://www.flightradar24.com/data/flights/H12288]]></description>
+        <pubDate>Sun, 12 Apr 2026 10:31:15 GMT</pubDate>
+        <guid>H12288-2026-04-12</guid>
       </item>
     </channel>
   </rss>
