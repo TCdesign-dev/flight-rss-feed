@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight H12288 - Unknown Airline</title>
-        <link>https://www.flightradar24.com/data/flights/H12288</link>
-        <description><![CDATA[📅 Sunday, April 12, 2026
-✈ Flight of the day: H12288 (Unknown Airline)
-🛫 From: Unknown
-🛬 To: Philip S. W. Goldson International
-🔗 Track live here: https://www.flightradar24.com/data/flights/H12288]]></description>
-        <pubDate>Sun, 12 Apr 2026 10:31:15 GMT</pubDate>
-        <guid>H12288-2026-04-12</guid>
+        <title>Flight G33047 - Gol</title>
+        <link>https://www.flightradar24.com/data/flights/G33047</link>
+        <description><![CDATA[📅 Monday, April 13, 2026
+✈ Flight of the day: G33047 (Gol)
+🛫 From: Aeroparque Jorge Newbery
+🛬 To: Santa Rosa
+🔗 Track live here: https://www.flightradar24.com/data/flights/G33047]]></description>
+        <pubDate>Mon, 13 Apr 2026 11:10:24 GMT</pubDate>
+        <guid>G33047-2026-04-13</guid>
       </item>
     </channel>
   </rss>
