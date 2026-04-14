@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight G33047 - Gol</title>
-        <link>https://www.flightradar24.com/data/flights/G33047</link>
-        <description><![CDATA[📅 Monday, April 13, 2026
-✈ Flight of the day: G33047 (Gol)
-🛫 From: Aeroparque Jorge Newbery
-🛬 To: Santa Rosa
-🔗 Track live here: https://www.flightradar24.com/data/flights/G33047]]></description>
-        <pubDate>Mon, 13 Apr 2026 11:10:24 GMT</pubDate>
-        <guid>G33047-2026-04-13</guid>
+        <title>Flight DL4245 - Delta Air Lines</title>
+        <link>https://www.flightradar24.com/data/flights/DL4245</link>
+        <description><![CDATA[📅 Tuesday, April 14, 2026
+✈ Flight of the day: DL4245 (Delta Air Lines)
+🛫 From: Falls International
+🛬 To: Minneapolis - St. Paul International
+🔗 Track live here: https://www.flightradar24.com/data/flights/DL4245]]></description>
+        <pubDate>Tue, 14 Apr 2026 10:56:28 GMT</pubDate>
+        <guid>DL4245-2026-04-14</guid>
       </item>
     </channel>
   </rss>
