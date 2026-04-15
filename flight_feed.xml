@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight DL4245 - Delta Air Lines</title>
-        <link>https://www.flightradar24.com/data/flights/DL4245</link>
-        <description><![CDATA[📅 Tuesday, April 14, 2026
-✈ Flight of the day: DL4245 (Delta Air Lines)
-🛫 From: Falls International
-🛬 To: Minneapolis - St. Paul International
-🔗 Track live here: https://www.flightradar24.com/data/flights/DL4245]]></description>
-        <pubDate>Tue, 14 Apr 2026 10:56:28 GMT</pubDate>
-        <guid>DL4245-2026-04-14</guid>
+        <title>Flight LH4674 - Lufthansa</title>
+        <link>https://www.flightradar24.com/data/flights/LH4674</link>
+        <description><![CDATA[📅 Wednesday, April 15, 2026
+✈ Flight of the day: LH4674 (Lufthansa)
+🛫 From: Galeao Antonio Carlos Jobim
+🛬 To: Salgado Filho
+🔗 Track live here: https://www.flightradar24.com/data/flights/LH4674]]></description>
+        <pubDate>Wed, 15 Apr 2026 10:52:43 GMT</pubDate>
+        <guid>LH4674-2026-04-15</guid>
       </item>
     </channel>
   </rss>
