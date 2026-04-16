@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LH4674 - Lufthansa</title>
-        <link>https://www.flightradar24.com/data/flights/LH4674</link>
-        <description><![CDATA[📅 Wednesday, April 15, 2026
-✈ Flight of the day: LH4674 (Lufthansa)
-🛫 From: Galeao Antonio Carlos Jobim
-🛬 To: Salgado Filho
-🔗 Track live here: https://www.flightradar24.com/data/flights/LH4674]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:43 GMT</pubDate>
-        <guid>LH4674-2026-04-15</guid>
+        <title>Flight TP8501 - TAP Air Portugal</title>
+        <link>https://www.flightradar24.com/data/flights/TP8501</link>
+        <description><![CDATA[📅 Thursday, April 16, 2026
+✈ Flight of the day: TP8501 (TAP Air Portugal)
+🛫 From: Ronald Reagan Washington National Airport
+🛬 To: Newark Liberty International
+🔗 Track live here: https://www.flightradar24.com/data/flights/TP8501]]></description>
+        <pubDate>Thu, 16 Apr 2026 10:55:49 GMT</pubDate>
+        <guid>TP8501-2026-04-16</guid>
       </item>
     </channel>
   </rss>
