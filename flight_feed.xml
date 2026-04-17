@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TP8501 - TAP Air Portugal</title>
-        <link>https://www.flightradar24.com/data/flights/TP8501</link>
-        <description><![CDATA[📅 Thursday, April 16, 2026
-✈ Flight of the day: TP8501 (TAP Air Portugal)
-🛫 From: Ronald Reagan Washington National Airport
-🛬 To: Newark Liberty International
-🔗 Track live here: https://www.flightradar24.com/data/flights/TP8501]]></description>
-        <pubDate>Thu, 16 Apr 2026 10:55:49 GMT</pubDate>
-        <guid>TP8501-2026-04-16</guid>
+        <title>Flight EJM217 - Executive Jet Management</title>
+        <link>https://www.flightradar24.com/data/flights/EJM217</link>
+        <description><![CDATA[📅 Friday, April 17, 2026
+✈ Flight of the day: EJM217 (Executive Jet Management)
+🛫 From: Midway
+🛬 To: Municipal/Baer Field
+🔗 Track live here: https://www.flightradar24.com/data/flights/EJM217]]></description>
+        <pubDate>Fri, 17 Apr 2026 10:47:15 GMT</pubDate>
+        <guid>EJM217-2026-04-17</guid>
       </item>
     </channel>
   </rss>
