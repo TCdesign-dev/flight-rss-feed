@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight EJM217 - Executive Jet Management</title>
-        <link>https://www.flightradar24.com/data/flights/EJM217</link>
-        <description><![CDATA[📅 Friday, April 17, 2026
-✈ Flight of the day: EJM217 (Executive Jet Management)
-🛫 From: Midway
-🛬 To: Municipal/Baer Field
-🔗 Track live here: https://www.flightradar24.com/data/flights/EJM217]]></description>
-        <pubDate>Fri, 17 Apr 2026 10:47:15 GMT</pubDate>
-        <guid>EJM217-2026-04-17</guid>
+        <title>Flight AS6695 - AlphaSky</title>
+        <link>https://www.flightradar24.com/data/flights/AS6695</link>
+        <description><![CDATA[📅 Saturday, April 18, 2026
+✈ Flight of the day: AS6695 (AlphaSky)
+🛫 From: Philadelphia International
+🛬 To: Savannah/Hilton Head
+🔗 Track live here: https://www.flightradar24.com/data/flights/AS6695]]></description>
+        <pubDate>Sat, 18 Apr 2026 10:32:44 GMT</pubDate>
+        <guid>AS6695-2026-04-18</guid>
       </item>
     </channel>
   </rss>
