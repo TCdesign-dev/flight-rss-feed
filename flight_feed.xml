@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AS6695 - AlphaSky</title>
-        <link>https://www.flightradar24.com/data/flights/AS6695</link>
-        <description><![CDATA[📅 Saturday, April 18, 2026
-✈ Flight of the day: AS6695 (AlphaSky)
-🛫 From: Philadelphia International
-🛬 To: Savannah/Hilton Head
-🔗 Track live here: https://www.flightradar24.com/data/flights/AS6695]]></description>
-        <pubDate>Sat, 18 Apr 2026 10:32:44 GMT</pubDate>
-        <guid>AS6695-2026-04-18</guid>
+        <title>Flight AR1857 - Aerolineas Argentinas</title>
+        <link>https://www.flightradar24.com/data/flights/AR1857</link>
+        <description><![CDATA[📅 Sunday, April 19, 2026
+✈ Flight of the day: AR1857 (Aerolineas Argentinas)
+🛫 From: Internacional
+🛬 To: Aeroparque Jorge Newbery
+🔗 Track live here: https://www.flightradar24.com/data/flights/AR1857]]></description>
+        <pubDate>Sun, 19 Apr 2026 10:31:59 GMT</pubDate>
+        <guid>AR1857-2026-04-19</guid>
       </item>
     </channel>
   </rss>
