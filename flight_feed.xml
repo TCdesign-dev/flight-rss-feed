@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AR1857 - Aerolineas Argentinas</title>
-        <link>https://www.flightradar24.com/data/flights/AR1857</link>
-        <description><![CDATA[📅 Sunday, April 19, 2026
-✈ Flight of the day: AR1857 (Aerolineas Argentinas)
-🛫 From: Internacional
-🛬 To: Aeroparque Jorge Newbery
-🔗 Track live here: https://www.flightradar24.com/data/flights/AR1857]]></description>
-        <pubDate>Sun, 19 Apr 2026 10:31:59 GMT</pubDate>
-        <guid>AR1857-2026-04-19</guid>
+        <title>Flight WS7295 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS7295</link>
+        <description><![CDATA[📅 Monday, April 20, 2026
+✈ Flight of the day: WS7295 (WestJet)
+🛫 From: Hartsfield-jackson Atlanta International
+🛬 To: Austin-bergstrom International
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS7295]]></description>
+        <pubDate>Mon, 20 Apr 2026 11:13:58 GMT</pubDate>
+        <guid>WS7295-2026-04-20</guid>
       </item>
     </channel>
   </rss>
