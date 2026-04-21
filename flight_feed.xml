@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS7295 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS7295</link>
-        <description><![CDATA[📅 Monday, April 20, 2026
-✈ Flight of the day: WS7295 (WestJet)
-🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Austin-bergstrom International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS7295]]></description>
-        <pubDate>Mon, 20 Apr 2026 11:13:58 GMT</pubDate>
-        <guid>WS7295-2026-04-20</guid>
+        <title>Flight F6558 - Fly2Sky</title>
+        <link>https://www.flightradar24.com/data/flights/F6558</link>
+        <description><![CDATA[📅 Tuesday, April 21, 2026
+✈ Flight of the day: F6558 (Fly2Sky)
+🛫 From: Murtala Muhammed
+🛬 To: Nnamdi Azikiwe International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/F6558]]></description>
+        <pubDate>Tue, 21 Apr 2026 10:59:13 GMT</pubDate>
+        <guid>F6558-2026-04-21</guid>
       </item>
     </channel>
   </rss>
