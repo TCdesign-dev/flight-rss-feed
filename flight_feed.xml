@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight F6558 - Fly2Sky</title>
-        <link>https://www.flightradar24.com/data/flights/F6558</link>
-        <description><![CDATA[📅 Tuesday, April 21, 2026
-✈ Flight of the day: F6558 (Fly2Sky)
-🛫 From: Murtala Muhammed
-🛬 To: Nnamdi Azikiwe International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/F6558]]></description>
-        <pubDate>Tue, 21 Apr 2026 10:59:13 GMT</pubDate>
-        <guid>F6558-2026-04-21</guid>
+        <title>Flight LXJ614 - Flexjet</title>
+        <link>https://www.flightradar24.com/data/flights/LXJ614</link>
+        <description><![CDATA[📅 Wednesday, April 22, 2026
+✈ Flight of the day: LXJ614 (Flexjet)
+🛫 From: Fort Lauderdale Executive
+🛬 To: Aeropuerto de las Américas
+🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ614]]></description>
+        <pubDate>Wed, 22 Apr 2026 10:57:36 GMT</pubDate>
+        <guid>LXJ614-2026-04-22</guid>
       </item>
     </channel>
   </rss>
