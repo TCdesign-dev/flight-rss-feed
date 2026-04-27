@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS6726 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS6726</link>
-        <description><![CDATA[📅 Sunday, April 26, 2026
-✈ Flight of the day: WS6726 (WestJet)
-🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Lambert-St. Louis International
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS6726]]></description>
-        <pubDate>Sun, 26 Apr 2026 10:38:06 GMT</pubDate>
-        <guid>WS6726-2026-04-26</guid>
+        <title>Flight QR8447 - Qatar Airways</title>
+        <link>https://www.flightradar24.com/data/flights/QR8447</link>
+        <description><![CDATA[📅 Monday, April 27, 2026
+✈ Flight of the day: QR8447 (Qatar Airways)
+🛫 From: Aeroporto Internacional Guarulhos
+🛬 To: Luis Eduardo Magalhaes
+🔗 Track live here: https://www.flightradar24.com/data/flights/QR8447]]></description>
+        <pubDate>Mon, 27 Apr 2026 11:40:04 GMT</pubDate>
+        <guid>QR8447-2026-04-27</guid>
       </item>
     </channel>
   </rss>
