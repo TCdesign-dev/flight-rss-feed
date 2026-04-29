@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AM8528 - Aeromexico</title>
-        <link>https://www.flightradar24.com/data/flights/AM8528</link>
-        <description><![CDATA[📅 Tuesday, April 28, 2026
-✈ Flight of the day: AM8528 (Aeromexico)
-🛫 From: Aeroporto Internacional Guarulhos
-🛬 To: Luis Eduardo Magalhaes
-🔗 Track live here: https://www.flightradar24.com/data/flights/AM8528]]></description>
-        <pubDate>Tue, 28 Apr 2026 11:40:49 GMT</pubDate>
-        <guid>AM8528-2026-04-28</guid>
+        <title>Flight BA6739 - British Airways</title>
+        <link>https://www.flightradar24.com/data/flights/BA6739</link>
+        <description><![CDATA[📅 Wednesday, April 29, 2026
+✈ Flight of the day: BA6739 (British Airways)
+🛫 From: Ronald Reagan Washington National Airport
+🛬 To: Orlando International
+🔗 Track live here: https://www.flightradar24.com/data/flights/BA6739]]></description>
+        <pubDate>Wed, 29 Apr 2026 11:24:06 GMT</pubDate>
+        <guid>BA6739-2026-04-29</guid>
       </item>
     </channel>
   </rss>
