@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight BA6739 - British Airways</title>
-        <link>https://www.flightradar24.com/data/flights/BA6739</link>
-        <description><![CDATA[📅 Wednesday, April 29, 2026
-✈ Flight of the day: BA6739 (British Airways)
-🛫 From: Ronald Reagan Washington National Airport
-🛬 To: Orlando International
-🔗 Track live here: https://www.flightradar24.com/data/flights/BA6739]]></description>
-        <pubDate>Wed, 29 Apr 2026 11:24:06 GMT</pubDate>
-        <guid>BA6739-2026-04-29</guid>
+        <title>Flight JL40 - Japan Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/JL40</link>
+        <description><![CDATA[📅 Thursday, April 30, 2026
+✈ Flight of the day: JL40 (Japan Airlines)
+🛫 From: Lee C Fine Memorial
+🛬 To: Tulsa International
+🔗 Track live here: https://www.flightradar24.com/data/flights/JL40]]></description>
+        <pubDate>Thu, 30 Apr 2026 11:23:24 GMT</pubDate>
+        <guid>JL40-2026-04-30</guid>
       </item>
     </channel>
   </rss>
