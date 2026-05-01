@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight JL40 - Japan Airlines</title>
-        <link>https://www.flightradar24.com/data/flights/JL40</link>
-        <description><![CDATA[📅 Thursday, April 30, 2026
-✈ Flight of the day: JL40 (Japan Airlines)
-🛫 From: Lee C Fine Memorial
-🛬 To: Tulsa International
-🔗 Track live here: https://www.flightradar24.com/data/flights/JL40]]></description>
-        <pubDate>Thu, 30 Apr 2026 11:23:24 GMT</pubDate>
-        <guid>JL40-2026-04-30</guid>
+        <title>Flight MH4302 - Malaysia Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/MH4302</link>
+        <description><![CDATA[📅 Friday, May 1, 2026
+✈ Flight of the day: MH4302 (Malaysia Airlines)
+🛫 From: Istanbul Airport
+🛬 To: Antalya
+🔗 Track live here: https://www.flightradar24.com/data/flights/MH4302]]></description>
+        <pubDate>Fri, 01 May 2026 11:01:50 GMT</pubDate>
+        <guid>MH4302-2026-05-01</guid>
       </item>
     </channel>
   </rss>
