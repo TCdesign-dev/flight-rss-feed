@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight MH4302 - Malaysia Airlines</title>
-        <link>https://www.flightradar24.com/data/flights/MH4302</link>
-        <description><![CDATA[📅 Friday, May 1, 2026
-✈ Flight of the day: MH4302 (Malaysia Airlines)
-🛫 From: Istanbul Airport
-🛬 To: Antalya
-🔗 Track live here: https://www.flightradar24.com/data/flights/MH4302]]></description>
-        <pubDate>Fri, 01 May 2026 11:01:50 GMT</pubDate>
-        <guid>MH4302-2026-05-01</guid>
+        <title>Flight SAA332   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/00b22d</link>
+        <description><![CDATA[📅 Saturday, May 2, 2026
+✈ Flight of the day: SAA332   (Unknown Airline)
+🛫 From: Unknown
+🛬 To: Unknown
+🔗 Track live here: https://opensky-network.org/aircraft/00b22d]]></description>
+        <pubDate>Sat, 02 May 2026 10:42:50 GMT</pubDate>
+        <guid>SAA332  -2026-05-02</guid>
       </item>
     </channel>
   </rss>
