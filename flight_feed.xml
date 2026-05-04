@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight R42033 - Rano Air(Nigeria)</title>
-        <link>https://www.flightradar24.com/data/flights/R42033</link>
-        <description><![CDATA[📅 Sunday, May 3, 2026
-✈ Flight of the day: R42033 (Rano Air(Nigeria))
-🛫 From: Kaduna
-🛬 To: Murtala Muhammed
-🔗 Track live here: https://www.flightradar24.com/data/flights/R42033]]></description>
-        <pubDate>Sun, 03 May 2026 10:45:50 GMT</pubDate>
-        <guid>R42033-2026-05-03</guid>
+        <title>Flight OF1199 - Overland Airways</title>
+        <link>https://www.flightradar24.com/data/flights/OF1199</link>
+        <description><![CDATA[📅 Monday, May 4, 2026
+✈ Flight of the day: OF1199 (Overland Airways)
+🛫 From: Akure
+🛬 To: Nnamdi Azikiwe International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/OF1199]]></description>
+        <pubDate>Mon, 04 May 2026 11:42:32 GMT</pubDate>
+        <guid>OF1199-2026-05-04</guid>
       </item>
     </channel>
   </rss>
