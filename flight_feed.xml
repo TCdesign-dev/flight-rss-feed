@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NT867 - Binter Canarias</title>
-        <link>https://www.flightradar24.com/data/flights/NT867</link>
-        <description><![CDATA[📅 Tuesday, May 5, 2026
-✈ Flight of the day: NT867 (Binter Canarias)
-🛫 From: Hierro
-🛬 To: Norte Los Rodeos
-🔗 Track live here: https://www.flightradar24.com/data/flights/NT867]]></description>
-        <pubDate>Tue, 05 May 2026 11:11:51 GMT</pubDate>
-        <guid>NT867-2026-05-05</guid>
+        <title>Flight UN561 - United Nigeria Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/UN561</link>
+        <description><![CDATA[📅 Wednesday, May 6, 2026
+✈ Flight of the day: UN561 (United Nigeria Airlines)
+🛫 From: Benin City
+🛬 To: Nnamdi Azikiwe International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/UN561]]></description>
+        <pubDate>Wed, 06 May 2026 11:43:45 GMT</pubDate>
+        <guid>UN561-2026-05-06</guid>
       </item>
     </channel>
   </rss>
