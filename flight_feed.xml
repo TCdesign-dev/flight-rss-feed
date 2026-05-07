@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight UN561 - United Nigeria Airlines</title>
-        <link>https://www.flightradar24.com/data/flights/UN561</link>
-        <description><![CDATA[📅 Wednesday, May 6, 2026
-✈ Flight of the day: UN561 (United Nigeria Airlines)
-🛫 From: Benin City
-🛬 To: Nnamdi Azikiwe International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/UN561]]></description>
-        <pubDate>Wed, 06 May 2026 11:43:45 GMT</pubDate>
-        <guid>UN561-2026-05-06</guid>
+        <title>Flight TK526 - Turkish Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/TK526</link>
+        <description><![CDATA[📅 Thursday, May 7, 2026
+✈ Flight of the day: TK526 (Turkish Airlines)
+🛫 From: Lusaka
+🛬 To: Dar Es Salam International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/TK526]]></description>
+        <pubDate>Thu, 07 May 2026 11:42:53 GMT</pubDate>
+        <guid>TK526-2026-05-07</guid>
       </item>
     </channel>
   </rss>
