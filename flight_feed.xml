@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TK526 - Turkish Airlines</title>
-        <link>https://www.flightradar24.com/data/flights/TK526</link>
-        <description><![CDATA[📅 Thursday, May 7, 2026
-✈ Flight of the day: TK526 (Turkish Airlines)
-🛫 From: Lusaka
-🛬 To: Dar Es Salam International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/TK526]]></description>
-        <pubDate>Thu, 07 May 2026 11:42:53 GMT</pubDate>
-        <guid>TK526-2026-05-07</guid>
+        <title>Flight LXJ486 - Flexjet</title>
+        <link>https://www.flightradar24.com/data/flights/LXJ486</link>
+        <description><![CDATA[📅 Friday, May 8, 2026
+✈ Flight of the day: LXJ486 (Flexjet)
+🛫 From: Teterboro
+🛬 To: Raleigh-durham International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ486]]></description>
+        <pubDate>Fri, 08 May 2026 11:04:06 GMT</pubDate>
+        <guid>LXJ486-2026-05-08</guid>
       </item>
     </channel>
   </rss>
