@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LXJ486 - Flexjet</title>
-        <link>https://www.flightradar24.com/data/flights/LXJ486</link>
-        <description><![CDATA[📅 Friday, May 8, 2026
-✈ Flight of the day: LXJ486 (Flexjet)
-🛫 From: Teterboro
-🛬 To: Raleigh-durham International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ486]]></description>
-        <pubDate>Fri, 08 May 2026 11:04:06 GMT</pubDate>
-        <guid>LXJ486-2026-05-08</guid>
+        <title>Flight LXJ430 - Flexjet</title>
+        <link>https://www.flightradar24.com/data/flights/LXJ430</link>
+        <description><![CDATA[📅 Saturday, May 9, 2026
+✈ Flight of the day: LXJ430 (Flexjet)
+🛫 From: Spirit Of St Louis
+🛬 To: Williamson County
+🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ430]]></description>
+        <pubDate>Sat, 09 May 2026 10:49:25 GMT</pubDate>
+        <guid>LXJ430-2026-05-09</guid>
       </item>
     </channel>
   </rss>
