@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LXJ587 - Flexjet</title>
-        <link>https://www.flightradar24.com/data/flights/LXJ587</link>
-        <description><![CDATA[📅 Sunday, May 10, 2026
-✈ Flight of the day: LXJ587 (Flexjet)
-🛫 From: Republic Field
-🛬 To: Bangor International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ587]]></description>
-        <pubDate>Sun, 10 May 2026 10:55:40 GMT</pubDate>
-        <guid>LXJ587-2026-05-10</guid>
+        <title>Flight 4H71 - Air Congo</title>
+        <link>https://www.flightradar24.com/data/flights/4H71</link>
+        <description><![CDATA[📅 Monday, May 11, 2026
+✈ Flight of the day: 4H71 (Air Congo)
+🛫 From: Kisangani
+🛬 To: N?djili International
+🔗 Track live here: https://www.flightradar24.com/data/flights/4H71]]></description>
+        <pubDate>Mon, 11 May 2026 12:34:28 GMT</pubDate>
+        <guid>4H71-2026-05-11</guid>
       </item>
     </channel>
   </rss>
