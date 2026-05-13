@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LXJ477 - Flexjet</title>
-        <link>https://www.flightradar24.com/data/flights/LXJ477</link>
-        <description><![CDATA[📅 Tuesday, May 12, 2026
-✈ Flight of the day: LXJ477 (Flexjet)
-🛫 From: Municipal
-🛬 To: Unknown
-🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ477]]></description>
-        <pubDate>Tue, 12 May 2026 11:47:08 GMT</pubDate>
-        <guid>LXJ477-2026-05-12</guid>
+        <title>Flight LXJ269 - Flexjet</title>
+        <link>https://www.flightradar24.com/data/flights/LXJ269</link>
+        <description><![CDATA[📅 Wednesday, May 13, 2026
+✈ Flight of the day: LXJ269 (Flexjet)
+🛫 From: Indianapolis Executive Airport 
+🛬 To: Midway
+🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ269]]></description>
+        <pubDate>Wed, 13 May 2026 11:56:18 GMT</pubDate>
+        <guid>LXJ269-2026-05-13</guid>
       </item>
     </channel>
   </rss>
