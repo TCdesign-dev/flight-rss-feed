@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NT130 - Binter Canarias</title>
-        <link>https://www.flightradar24.com/data/flights/NT130</link>
-        <description><![CDATA[📅 Thursday, May 14, 2026
-✈ Flight of the day: NT130 (Binter Canarias)
-🛫 From: Norte Los Rodeos
-🛬 To: Gran Canaria
-🔗 Track live here: https://www.flightradar24.com/data/flights/NT130]]></description>
-        <pubDate>Thu, 14 May 2026 11:45:05 GMT</pubDate>
-        <guid>NT130-2026-05-14</guid>
+        <title>Flight NT - Binter Canarias</title>
+        <link>https://www.flightradar24.com/data/flights/NT</link>
+        <description><![CDATA[📅 Friday, May 15, 2026
+✈ Flight of the day: NT (Binter Canarias)
+🛫 From: Gran Canaria
+🛬 To: Norte Los Rodeos
+🔗 Track live here: https://www.flightradar24.com/data/flights/NT]]></description>
+        <pubDate>Fri, 15 May 2026 11:48:37 GMT</pubDate>
+        <guid>NT-2026-05-15</guid>
       </item>
     </channel>
   </rss>
