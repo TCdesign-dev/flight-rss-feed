@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NT - Binter Canarias</title>
-        <link>https://www.flightradar24.com/data/flights/NT</link>
-        <description><![CDATA[📅 Friday, May 15, 2026
-✈ Flight of the day: NT (Binter Canarias)
-🛫 From: Gran Canaria
-🛬 To: Norte Los Rodeos
-🔗 Track live here: https://www.flightradar24.com/data/flights/NT]]></description>
-        <pubDate>Fri, 15 May 2026 11:48:37 GMT</pubDate>
-        <guid>NT-2026-05-15</guid>
+        <title>Flight 3H819 - Air Inuit</title>
+        <link>https://www.flightradar24.com/data/flights/3H819</link>
+        <description><![CDATA[📅 Saturday, May 16, 2026
+✈ Flight of the day: 3H819 (Air Inuit)
+🛫 From: Aupaluk
+🛬 To: Tasiujuaq
+🔗 Track live here: https://www.flightradar24.com/data/flights/3H819]]></description>
+        <pubDate>Sat, 16 May 2026 10:55:51 GMT</pubDate>
+        <guid>3H819-2026-05-16</guid>
       </item>
     </channel>
   </rss>
