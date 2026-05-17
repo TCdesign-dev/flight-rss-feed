@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 3H819 - Air Inuit</title>
-        <link>https://www.flightradar24.com/data/flights/3H819</link>
-        <description><![CDATA[📅 Saturday, May 16, 2026
-✈ Flight of the day: 3H819 (Air Inuit)
-🛫 From: Aupaluk
-🛬 To: Tasiujuaq
-🔗 Track live here: https://www.flightradar24.com/data/flights/3H819]]></description>
-        <pubDate>Sat, 16 May 2026 10:55:51 GMT</pubDate>
-        <guid>3H819-2026-05-16</guid>
+        <title>Flight 3H803 - Air Inuit</title>
+        <link>https://www.flightradar24.com/data/flights/3H803</link>
+        <description><![CDATA[📅 Sunday, May 17, 2026
+✈ Flight of the day: 3H803 (Air Inuit)
+🛫 From: Ivujivik
+🛬 To: Akulivik
+🔗 Track live here: https://www.flightradar24.com/data/flights/3H803]]></description>
+        <pubDate>Sun, 17 May 2026 10:58:46 GMT</pubDate>
+        <guid>3H803-2026-05-17</guid>
       </item>
     </channel>
   </rss>
