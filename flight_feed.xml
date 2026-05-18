@@ -5,15 +5,16 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 3H803 - Air Inuit</title>
-        <link>https://www.flightradar24.com/data/flights/3H803</link>
-        <description><![CDATA[📅 Sunday, May 17, 2026
-✈ Flight of the day: 3H803 (Air Inuit)
-🛫 From: Ivujivik
-🛬 To: Akulivik
-🔗 Track live here: https://www.flightradar24.com/data/flights/3H803]]></description>
-        <pubDate>Sun, 17 May 2026 10:58:46 GMT</pubDate>
-        <guid>3H803-2026-05-17</guid>
+        <title>Flight TVF18HN  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/39de4b</link>
+        <description><![CDATA[📅 Monday, May 18, 2026
+✈ Flight of the day: TVF18HN  (Unknown Airline)
+🛫 From: Unknown
+🛬 To: Unknown
+🛩 Aircraft model: Airbus A320-252N
+🔗 Track live here: https://opensky-network.org/aircraft/39de4b]]></description>
+        <pubDate>Mon, 18 May 2026 13:37:40 GMT</pubDate>
+        <guid>TVF18HN -2026-05-18</guid>
       </item>
     </channel>
   </rss>
