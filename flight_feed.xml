@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TS7840 - Air Transat</title>
-        <link>https://www.flightradar24.com/data/flights/TS7840</link>
-        <description><![CDATA[📅 Tuesday, May 19, 2026
-✈ Flight of the day: TS7840 (Air Transat)
-🛫 From: Lester B. Pearson International
-🛬 To: Halifax International
-🔗 Track live here: https://www.flightradar24.com/data/flights/TS7840]]></description>
-        <pubDate>Tue, 19 May 2026 12:33:55 GMT</pubDate>
-        <guid>TS7840-2026-05-19</guid>
+        <title>Flight LA8415 - LATAM Airlines</title>
+        <link>https://www.flightradar24.com/data/flights/LA8415</link>
+        <description><![CDATA[📅 Wednesday, May 20, 2026
+✈ Flight of the day: LA8415 (LATAM Airlines)
+🛫 From: San Juan
+🛬 To: Aeroparque Jorge Newbery
+🔗 Track live here: https://www.flightradar24.com/data/flights/LA8415]]></description>
+        <pubDate>Wed, 20 May 2026 12:15:33 GMT</pubDate>
+        <guid>LA8415-2026-05-20</guid>
       </item>
     </channel>
   </rss>
