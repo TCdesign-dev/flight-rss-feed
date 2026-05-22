@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 9K8212 - Cape Air</title>
-        <link>https://www.flightradar24.com/data/flights/9K8212</link>
-        <description><![CDATA[📅 Thursday, May 21, 2026
-✈ Flight of the day: 9K8212 (Cape Air)
-🛫 From: Luis Munoz Marin International
-🛬 To: Cyril E King Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/9K8212]]></description>
-        <pubDate>Thu, 21 May 2026 12:39:04 GMT</pubDate>
-        <guid>9K8212-2026-05-21</guid>
+        <title>Flight NZ6962 - Air New Zealand</title>
+        <link>https://www.flightradar24.com/data/flights/NZ6962</link>
+        <description><![CDATA[📅 Friday, May 22, 2026
+✈ Flight of the day: NZ6962 (Air New Zealand)
+🛫 From: George Bush Intercontinental
+🛬 To: Birmingham-Shuttlesworth International Airport
+🔗 Track live here: https://www.flightradar24.com/data/flights/NZ6962]]></description>
+        <pubDate>Fri, 22 May 2026 12:12:28 GMT</pubDate>
+        <guid>NZ6962-2026-05-22</guid>
       </item>
     </channel>
   </rss>
