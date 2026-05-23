@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NZ6962 - Air New Zealand</title>
-        <link>https://www.flightradar24.com/data/flights/NZ6962</link>
-        <description><![CDATA[📅 Friday, May 22, 2026
-✈ Flight of the day: NZ6962 (Air New Zealand)
-🛫 From: George Bush Intercontinental
-🛬 To: Birmingham-Shuttlesworth International Airport
-🔗 Track live here: https://www.flightradar24.com/data/flights/NZ6962]]></description>
-        <pubDate>Fri, 22 May 2026 12:12:28 GMT</pubDate>
-        <guid>NZ6962-2026-05-22</guid>
+        <title>Flight WY6661 - Oman Air</title>
+        <link>https://www.flightradar24.com/data/flights/WY6661</link>
+        <description><![CDATA[📅 Saturday, May 23, 2026
+✈ Flight of the day: WY6661 (Oman Air)
+🛫 From: Heathrow
+🛬 To: Zurich
+🔗 Track live here: https://www.flightradar24.com/data/flights/WY6661]]></description>
+        <pubDate>Sat, 23 May 2026 11:04:24 GMT</pubDate>
+        <guid>WY6661-2026-05-23</guid>
       </item>
     </channel>
   </rss>
