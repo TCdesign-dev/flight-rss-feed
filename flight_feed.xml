@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WY6661 - Oman Air</title>
-        <link>https://www.flightradar24.com/data/flights/WY6661</link>
-        <description><![CDATA[📅 Saturday, May 23, 2026
-✈ Flight of the day: WY6661 (Oman Air)
-🛫 From: Heathrow
-🛬 To: Zurich
-🔗 Track live here: https://www.flightradar24.com/data/flights/WY6661]]></description>
-        <pubDate>Sat, 23 May 2026 11:04:24 GMT</pubDate>
-        <guid>WY6661-2026-05-23</guid>
+        <title>Flight 2M5060 - Maya Island Air</title>
+        <link>https://www.flightradar24.com/data/flights/2M5060</link>
+        <description><![CDATA[📅 Sunday, May 24, 2026
+✈ Flight of the day: 2M5060 (Maya Island Air)
+🛫 From: Unknown
+🛬 To: Philip S. W. Goldson International
+🔗 Track live here: https://www.flightradar24.com/data/flights/2M5060]]></description>
+        <pubDate>Sun, 24 May 2026 11:08:43 GMT</pubDate>
+        <guid>2M5060-2026-05-24</guid>
       </item>
     </channel>
   </rss>
