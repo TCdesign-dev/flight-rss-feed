@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight KE3661 - Korean Air</title>
-        <link>https://www.flightradar24.com/data/flights/KE3661</link>
-        <description><![CDATA[📅 Monday, May 25, 2026
-✈ Flight of the day: KE3661 (Korean Air)
-🛫 From: Hartsfield-jackson Atlanta International
-🛬 To: Philadelphia International
-🔗 Track live here: https://www.flightradar24.com/data/flights/KE3661]]></description>
-        <pubDate>Mon, 25 May 2026 12:56:11 GMT</pubDate>
-        <guid>KE3661-2026-05-25</guid>
+        <title>Flight 3H815 - Air Inuit</title>
+        <link>https://www.flightradar24.com/data/flights/3H815</link>
+        <description><![CDATA[📅 Wednesday, May 27, 2026
+✈ Flight of the day: 3H815 (Air Inuit)
+🛫 From: Tasiujuaq
+🛬 To: Kuujjuaq
+🔗 Track live here: https://www.flightradar24.com/data/flights/3H815]]></description>
+        <pubDate>Wed, 27 May 2026 12:47:04 GMT</pubDate>
+        <guid>3H815-2026-05-27</guid>
       </item>
     </channel>
   </rss>
