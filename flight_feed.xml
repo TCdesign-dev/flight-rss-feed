@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NT858 - Binter Canarias</title>
-        <link>https://www.flightradar24.com/data/flights/NT858</link>
-        <description><![CDATA[📅 Friday, May 29, 2026
-✈ Flight of the day: NT858 (Binter Canarias)
-🛫 From: Norte Los Rodeos
-🛬 To: Hierro
-🔗 Track live here: https://www.flightradar24.com/data/flights/NT858]]></description>
-        <pubDate>Fri, 29 May 2026 12:42:00 GMT</pubDate>
-        <guid>NT858-2026-05-29</guid>
+        <title>Flight WP1640 - Wasaya Airways</title>
+        <link>https://www.flightradar24.com/data/flights/WP1640</link>
+        <description><![CDATA[📅 Saturday, May 30, 2026
+✈ Flight of the day: WP1640 (Wasaya Airways)
+🛫 From: Kasabonika
+🛬 To: Sioux Lookout
+🔗 Track live here: https://www.flightradar24.com/data/flights/WP1640]]></description>
+        <pubDate>Sat, 30 May 2026 11:13:35 GMT</pubDate>
+        <guid>WP1640-2026-05-30</guid>
       </item>
     </channel>
   </rss>
