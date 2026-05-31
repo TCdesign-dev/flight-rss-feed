@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WP1640 - Wasaya Airways</title>
-        <link>https://www.flightradar24.com/data/flights/WP1640</link>
-        <description><![CDATA[📅 Saturday, May 30, 2026
-✈ Flight of the day: WP1640 (Wasaya Airways)
-🛫 From: Kasabonika
-🛬 To: Sioux Lookout
-🔗 Track live here: https://www.flightradar24.com/data/flights/WP1640]]></description>
-        <pubDate>Sat, 30 May 2026 11:13:35 GMT</pubDate>
-        <guid>WP1640-2026-05-30</guid>
+        <title>Flight LXJ597 - Flexjet</title>
+        <link>https://www.flightradar24.com/data/flights/LXJ597</link>
+        <description><![CDATA[📅 Sunday, May 31, 2026
+✈ Flight of the day: LXJ597 (Flexjet)
+🛫 From: Teterboro
+🛬 To: Eppley Airfield
+🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ597]]></description>
+        <pubDate>Sun, 31 May 2026 11:28:25 GMT</pubDate>
+        <guid>LXJ597-2026-05-31</guid>
       </item>
     </channel>
   </rss>
