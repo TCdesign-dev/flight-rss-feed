@@ -5,15 +5,16 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LXJ597 - Flexjet</title>
-        <link>https://www.flightradar24.com/data/flights/LXJ597</link>
-        <description><![CDATA[📅 Sunday, May 31, 2026
-✈ Flight of the day: LXJ597 (Flexjet)
-🛫 From: Teterboro
-🛬 To: Eppley Airfield
-🔗 Track live here: https://www.flightradar24.com/data/flights/LXJ597]]></description>
-        <pubDate>Sun, 31 May 2026 11:28:25 GMT</pubDate>
-        <guid>LXJ597-2026-05-31</guid>
+        <title>Flight TWY401   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/a4b238</link>
+        <description><![CDATA[📅 Monday, June 1, 2026
+✈ Flight of the day: TWY401   (Unknown Airline)
+🛫 From: Unknown
+🛬 To: Unknown
+🛩 Aircraft model: Bombardier Inc BD-700-1A10
+🔗 Track live here: https://opensky-network.org/aircraft/a4b238]]></description>
+        <pubDate>Mon, 01 Jun 2026 15:49:05 GMT</pubDate>
+        <guid>TWY401  -2026-06-01</guid>
       </item>
     </channel>
   </rss>
