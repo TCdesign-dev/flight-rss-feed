@@ -5,16 +5,16 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TWY401   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/a4b238</link>
-        <description><![CDATA[📅 Monday, June 1, 2026
-✈ Flight of the day: TWY401   (Unknown Airline)
+        <title>Flight IGO5003  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/80161a</link>
+        <description><![CDATA[📅 Wednesday, June 3, 2026
+✈ Flight of the day: IGO5003  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🛩 Aircraft model: Bombardier Inc BD-700-1A10
-🔗 Track live here: https://opensky-network.org/aircraft/a4b238]]></description>
-        <pubDate>Mon, 01 Jun 2026 15:49:05 GMT</pubDate>
-        <guid>TWY401  -2026-06-01</guid>
+🛩 Aircraft model: Airbus A320-251N
+🔗 Track live here: https://opensky-network.org/aircraft/80161a]]></description>
+        <pubDate>Wed, 03 Jun 2026 14:21:54 GMT</pubDate>
+        <guid>IGO5003 -2026-06-03</guid>
       </item>
     </channel>
   </rss>
