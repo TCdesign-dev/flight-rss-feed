@@ -5,16 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight IGO5003  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/80161a</link>
-        <description><![CDATA[📅 Wednesday, June 3, 2026
-✈ Flight of the day: IGO5003  (Unknown Airline)
-🛫 From: Unknown
-🛬 To: Unknown
-🛩 Aircraft model: Airbus A320-251N
-🔗 Track live here: https://opensky-network.org/aircraft/80161a]]></description>
-        <pubDate>Wed, 03 Jun 2026 14:21:54 GMT</pubDate>
-        <guid>IGO5003 -2026-06-03</guid>
+        <title>Flight WS5016 - WestJet</title>
+        <link>https://www.flightradar24.com/data/flights/WS5016</link>
+        <description><![CDATA[📅 Thursday, June 4, 2026
+✈ Flight of the day: WS5016 (WestJet)
+🛫 From: Charles De Gaulle
+🛬 To: Frederic Chopin
+🔗 Track live here: https://www.flightradar24.com/data/flights/WS5016]]></description>
+        <pubDate>Thu, 04 Jun 2026 12:38:09 GMT</pubDate>
+        <guid>WS5016-2026-06-04</guid>
       </item>
     </channel>
   </rss>
