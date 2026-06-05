@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WS5016 - WestJet</title>
-        <link>https://www.flightradar24.com/data/flights/WS5016</link>
-        <description><![CDATA[📅 Thursday, June 4, 2026
-✈ Flight of the day: WS5016 (WestJet)
-🛫 From: Charles De Gaulle
-🛬 To: Frederic Chopin
-🔗 Track live here: https://www.flightradar24.com/data/flights/WS5016]]></description>
-        <pubDate>Thu, 04 Jun 2026 12:38:09 GMT</pubDate>
-        <guid>WS5016-2026-06-04</guid>
+        <title>Flight AC3184 - Air Canada</title>
+        <link>https://www.flightradar24.com/data/flights/AC3184</link>
+        <description><![CDATA[📅 Friday, June 5, 2026
+✈ Flight of the day: AC3184 (Air Canada)
+🛫 From: George Bush Intercontinental
+🛬 To: Jackson-evers
+🔗 Track live here: https://www.flightradar24.com/data/flights/AC3184]]></description>
+        <pubDate>Fri, 05 Jun 2026 12:31:16 GMT</pubDate>
+        <guid>AC3184-2026-06-05</guid>
       </item>
     </channel>
   </rss>
