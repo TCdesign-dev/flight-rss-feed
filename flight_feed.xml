@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight WP1640 - Wasaya Airways</title>
-        <link>https://www.flightradar24.com/data/flights/WP1640</link>
-        <description><![CDATA[📅 Saturday, June 6, 2026
-✈ Flight of the day: WP1640 (Wasaya Airways)
-🛫 From: Kasabonika
-🛬 To: Sioux Lookout
-🔗 Track live here: https://www.flightradar24.com/data/flights/WP1640]]></description>
-        <pubDate>Sat, 06 Jun 2026 11:18:01 GMT</pubDate>
-        <guid>WP1640-2026-06-06</guid>
+        <title>Flight 1I - NetJets</title>
+        <link>https://www.flightradar24.com/data/flights/1I</link>
+        <description><![CDATA[📅 Sunday, June 7, 2026
+✈ Flight of the day: 1I (NetJets)
+🛫 From: Ohio State University
+🛬 To: Lester B. Pearson International
+🔗 Track live here: https://www.flightradar24.com/data/flights/1I]]></description>
+        <pubDate>Sun, 07 Jun 2026 11:42:35 GMT</pubDate>
+        <guid>1I-2026-06-07</guid>
       </item>
     </channel>
   </rss>
