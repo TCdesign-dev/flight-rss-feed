@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 1I - NetJets</title>
-        <link>https://www.flightradar24.com/data/flights/1I</link>
-        <description><![CDATA[📅 Sunday, June 7, 2026
-✈ Flight of the day: 1I (NetJets)
-🛫 From: Ohio State University
-🛬 To: Lester B. Pearson International
-🔗 Track live here: https://www.flightradar24.com/data/flights/1I]]></description>
-        <pubDate>Sun, 07 Jun 2026 11:42:35 GMT</pubDate>
-        <guid>1I-2026-06-07</guid>
+        <title>Flight N/A - empty</title>
+        <link>https://www.flightradar24.com/data/flights/N/A</link>
+        <description><![CDATA[📅 Monday, June 8, 2026
+✈ Flight of the day: N/A (empty)
+🛫 From: Tennant Creek
+🛬 To: Alice Springs
+🔗 Track live here: https://www.flightradar24.com/data/flights/N/A]]></description>
+        <pubDate>Mon, 08 Jun 2026 13:59:52 GMT</pubDate>
+        <guid>N/A-2026-06-08</guid>
       </item>
     </channel>
   </rss>
