@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight N/A - empty</title>
-        <link>https://www.flightradar24.com/data/flights/N/A</link>
-        <description><![CDATA[📅 Monday, June 8, 2026
-✈ Flight of the day: N/A (empty)
-🛫 From: Tennant Creek
-🛬 To: Alice Springs
-🔗 Track live here: https://www.flightradar24.com/data/flights/N/A]]></description>
-        <pubDate>Mon, 08 Jun 2026 13:59:52 GMT</pubDate>
-        <guid>N/A-2026-06-08</guid>
+        <title>Flight EJU83GU  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/44028c</link>
+        <description><![CDATA[📅 Wednesday, June 10, 2026
+✈ Flight of the day: EJU83GU  (Unknown Airline)
+🛫 From: Unknown
+🛬 To: Unknown
+🔗 Track live here: https://opensky-network.org/aircraft/44028c]]></description>
+        <pubDate>Wed, 10 Jun 2026 12:49:00 GMT</pubDate>
+        <guid>EJU83GU -2026-06-10</guid>
       </item>
     </channel>
   </rss>
