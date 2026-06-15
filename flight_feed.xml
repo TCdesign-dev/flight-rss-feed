@@ -5,15 +5,16 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight EJU924T  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/44028c</link>
-        <description><![CDATA[📅 Sunday, June 14, 2026
-✈ Flight of the day: EJU924T  (Unknown Airline)
+        <title>Flight TOY15    - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/4a2095</link>
+        <description><![CDATA[📅 Monday, June 15, 2026
+✈ Flight of the day: TOY15    (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/44028c]]></description>
-        <pubDate>Sun, 14 Jun 2026 11:49:11 GMT</pubDate>
-        <guid>EJU924T -2026-06-14</guid>
+🛩 Aircraft model: Cessna 525 Citation M2
+🔗 Track live here: https://opensky-network.org/aircraft/4a2095]]></description>
+        <pubDate>Mon, 15 Jun 2026 15:37:10 GMT</pubDate>
+        <guid>TOY15   -2026-06-15</guid>
       </item>
     </channel>
   </rss>
