@@ -5,16 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TOY15    - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/4a2095</link>
-        <description><![CDATA[📅 Monday, June 15, 2026
-✈ Flight of the day: TOY15    (Unknown Airline)
+        <title>Flight ARE4172  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/e8023b</link>
+        <description><![CDATA[📅 Wednesday, June 17, 2026
+✈ Flight of the day: ARE4172  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🛩 Aircraft model: Cessna 525 Citation M2
-🔗 Track live here: https://opensky-network.org/aircraft/4a2095]]></description>
-        <pubDate>Mon, 15 Jun 2026 15:37:10 GMT</pubDate>
-        <guid>TOY15   -2026-06-15</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/e8023b]]></description>
+        <pubDate>Wed, 17 Jun 2026 13:36:51 GMT</pubDate>
+        <guid>ARE4172 -2026-06-17</guid>
       </item>
     </channel>
   </rss>
