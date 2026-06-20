@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight ARE4172  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/e8023b</link>
-        <description><![CDATA[📅 Wednesday, June 17, 2026
-✈ Flight of the day: ARE4172  (Unknown Airline)
+        <title>Flight SAA023   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/00b22c</link>
+        <description><![CDATA[📅 Saturday, June 20, 2026
+✈ Flight of the day: SAA023   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/e8023b]]></description>
-        <pubDate>Wed, 17 Jun 2026 13:36:51 GMT</pubDate>
-        <guid>ARE4172 -2026-06-17</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/00b22c]]></description>
+        <pubDate>Sat, 20 Jun 2026 11:51:09 GMT</pubDate>
+        <guid>SAA023  -2026-06-20</guid>
       </item>
     </channel>
   </rss>
