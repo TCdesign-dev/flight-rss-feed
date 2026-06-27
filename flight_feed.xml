@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight SPAWE    - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/488284</link>
-        <description><![CDATA[📅 Wednesday, June 24, 2026
-✈ Flight of the day: SPAWE    (Unknown Airline)
+        <title>Flight TVF27GU  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/39de4c</link>
+        <description><![CDATA[📅 Saturday, June 27, 2026
+✈ Flight of the day: TVF27GU  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/488284]]></description>
-        <pubDate>Wed, 24 Jun 2026 12:13:59 GMT</pubDate>
-        <guid>SPAWE   -2026-06-24</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/39de4c]]></description>
+        <pubDate>Sat, 27 Jun 2026 11:21:40 GMT</pubDate>
+        <guid>TVF27GU -2026-06-27</guid>
       </item>
     </channel>
   </rss>
