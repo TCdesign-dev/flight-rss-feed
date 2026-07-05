@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight ASA1520  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/acdfa3</link>
-        <description><![CDATA[📅 Saturday, July 4, 2026
-✈ Flight of the day: ASA1520  (Unknown Airline)
+        <title>Flight EJU96VD  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/44028c</link>
+        <description><![CDATA[📅 Sunday, July 5, 2026
+✈ Flight of the day: EJU96VD  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/acdfa3]]></description>
-        <pubDate>Sat, 04 Jul 2026 11:18:44 GMT</pubDate>
-        <guid>ASA1520 -2026-07-04</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/44028c]]></description>
+        <pubDate>Sun, 05 Jul 2026 11:24:16 GMT</pubDate>
+        <guid>EJU96VD -2026-07-05</guid>
       </item>
     </channel>
   </rss>
