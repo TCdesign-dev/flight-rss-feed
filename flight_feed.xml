@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight EJU46XB  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/44028c</link>
-        <description><![CDATA[📅 Friday, July 10, 2026
-✈ Flight of the day: EJU46XB  (Unknown Airline)
+        <title>Flight IGO713V  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/801619</link>
+        <description><![CDATA[📅 Monday, July 13, 2026
+✈ Flight of the day: IGO713V  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/44028c]]></description>
-        <pubDate>Fri, 10 Jul 2026 12:20:21 GMT</pubDate>
-        <guid>EJU46XB -2026-07-10</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/801619]]></description>
+        <pubDate>Mon, 13 Jul 2026 12:26:00 GMT</pubDate>
+        <guid>IGO713V -2026-07-13</guid>
       </item>
     </channel>
   </rss>
