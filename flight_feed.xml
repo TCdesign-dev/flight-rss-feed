@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight IGO5121  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/801648</link>
-        <description><![CDATA[📅 Tuesday, July 21, 2026
-✈ Flight of the day: IGO5121  (Unknown Airline)
+        <title>Flight EJU924T  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/44028c</link>
+        <description><![CDATA[📅 Friday, July 24, 2026
+✈ Flight of the day: EJU924T  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/801648]]></description>
-        <pubDate>Tue, 21 Jul 2026 11:42:10 GMT</pubDate>
-        <guid>IGO5121 -2026-07-21</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/44028c]]></description>
+        <pubDate>Fri, 24 Jul 2026 11:36:28 GMT</pubDate>
+        <guid>EJU924T -2026-07-24</guid>
       </item>
     </channel>
   </rss>
