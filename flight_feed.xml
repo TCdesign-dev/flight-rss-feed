@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight IGO2730  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/801649</link>
-        <description><![CDATA[📅 Monday, July 27, 2026
-✈ Flight of the day: IGO2730  (Unknown Airline)
+        <title>Flight TVF28CY  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/39de45</link>
+        <description><![CDATA[📅 Tuesday, July 28, 2026
+✈ Flight of the day: TVF28CY  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/801649]]></description>
-        <pubDate>Mon, 27 Jul 2026 12:51:13 GMT</pubDate>
-        <guid>IGO2730 -2026-07-27</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/39de45]]></description>
+        <pubDate>Tue, 28 Jul 2026 11:50:30 GMT</pubDate>
+        <guid>TVF28CY -2026-07-28</guid>
       </item>
     </channel>
   </rss>
