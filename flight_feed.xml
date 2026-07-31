@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AIC2304  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/801640</link>
-        <description><![CDATA[📅 Thursday, July 30, 2026
-✈ Flight of the day: AIC2304  (Unknown Airline)
+        <title>Flight DAL3106  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ac4963</link>
+        <description><![CDATA[📅 Friday, July 31, 2026
+✈ Flight of the day: DAL3106  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/801640]]></description>
-        <pubDate>Thu, 30 Jul 2026 11:45:50 GMT</pubDate>
-        <guid>AIC2304 -2026-07-30</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/ac4963]]></description>
+        <pubDate>Fri, 31 Jul 2026 11:52:35 GMT</pubDate>
+        <guid>DAL3106 -2026-07-31</guid>
       </item>
     </channel>
   </rss>
