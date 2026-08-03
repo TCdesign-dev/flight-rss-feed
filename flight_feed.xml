@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight NSZ2027  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/4acb02</link>
-        <description><![CDATA[📅 Sunday, August 2, 2026
-✈ Flight of the day: NSZ2027  (Unknown Airline)
+        <title>Flight AAL803   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ad5623</link>
+        <description><![CDATA[📅 Monday, August 3, 2026
+✈ Flight of the day: AAL803   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/4acb02]]></description>
-        <pubDate>Sun, 02 Aug 2026 11:10:57 GMT</pubDate>
-        <guid>NSZ2027 -2026-08-02</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/ad5623]]></description>
+        <pubDate>Mon, 03 Aug 2026 12:50:32 GMT</pubDate>
+        <guid>AAL803  -2026-08-03</guid>
       </item>
     </channel>
   </rss>
