@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AAL803   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/ad5623</link>
-        <description><![CDATA[📅 Monday, August 3, 2026
-✈ Flight of the day: AAL803   (Unknown Airline)
+        <title>Flight IGO5041  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/80160f</link>
+        <description><![CDATA[📅 Tuesday, August 4, 2026
+✈ Flight of the day: IGO5041  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/ad5623]]></description>
-        <pubDate>Mon, 03 Aug 2026 12:50:32 GMT</pubDate>
-        <guid>AAL803  -2026-08-03</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/80160f]]></description>
+        <pubDate>Tue, 04 Aug 2026 11:56:45 GMT</pubDate>
+        <guid>IGO5041 -2026-08-04</guid>
       </item>
     </channel>
   </rss>
