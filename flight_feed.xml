@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight IGO5041  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/80160f</link>
-        <description><![CDATA[📅 Tuesday, August 4, 2026
-✈ Flight of the day: IGO5041  (Unknown Airline)
+        <title>Flight LPE2405  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/e80279</link>
+        <description><![CDATA[📅 Wednesday, August 5, 2026
+✈ Flight of the day: LPE2405  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/80160f]]></description>
-        <pubDate>Tue, 04 Aug 2026 11:56:45 GMT</pubDate>
-        <guid>IGO5041 -2026-08-04</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/e80279]]></description>
+        <pubDate>Wed, 05 Aug 2026 11:51:28 GMT</pubDate>
+        <guid>LPE2405 -2026-08-05</guid>
       </item>
     </channel>
   </rss>
