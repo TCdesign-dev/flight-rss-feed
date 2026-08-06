@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LPE2405  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/e80279</link>
-        <description><![CDATA[📅 Wednesday, August 5, 2026
-✈ Flight of the day: LPE2405  (Unknown Airline)
+        <title>Flight PGT706H  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/4bc8d5</link>
+        <description><![CDATA[📅 Thursday, August 6, 2026
+✈ Flight of the day: PGT706H  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/e80279]]></description>
-        <pubDate>Wed, 05 Aug 2026 11:51:28 GMT</pubDate>
-        <guid>LPE2405 -2026-08-05</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/4bc8d5]]></description>
+        <pubDate>Thu, 06 Aug 2026 11:57:27 GMT</pubDate>
+        <guid>PGT706H -2026-08-06</guid>
       </item>
     </channel>
   </rss>
