@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight PGT706H  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/4bc8d5</link>
-        <description><![CDATA[📅 Thursday, August 6, 2026
-✈ Flight of the day: PGT706H  (Unknown Airline)
+        <title>Flight TVF6307  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/39de4c</link>
+        <description><![CDATA[📅 Friday, August 7, 2026
+✈ Flight of the day: TVF6307  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/4bc8d5]]></description>
-        <pubDate>Thu, 06 Aug 2026 11:57:27 GMT</pubDate>
-        <guid>PGT706H -2026-08-06</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/39de4c]]></description>
+        <pubDate>Fri, 07 Aug 2026 10:43:11 GMT</pubDate>
+        <guid>TVF6307 -2026-08-07</guid>
       </item>
     </channel>
   </rss>
