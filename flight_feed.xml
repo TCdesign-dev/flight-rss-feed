@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TVF6307  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/39de4c</link>
-        <description><![CDATA[📅 Friday, August 7, 2026
-✈ Flight of the day: TVF6307  (Unknown Airline)
+        <title>Flight SAA040   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/00b22d</link>
+        <description><![CDATA[📅 Saturday, August 8, 2026
+✈ Flight of the day: SAA040   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/39de4c]]></description>
-        <pubDate>Fri, 07 Aug 2026 10:43:11 GMT</pubDate>
-        <guid>TVF6307 -2026-08-07</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/00b22d]]></description>
+        <pubDate>Sat, 08 Aug 2026 10:21:58 GMT</pubDate>
+        <guid>SAA040  -2026-08-08</guid>
       </item>
     </channel>
   </rss>
