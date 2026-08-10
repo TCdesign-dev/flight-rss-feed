@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TVF8099  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/39de4f</link>
-        <description><![CDATA[📅 Sunday, August 9, 2026
-✈ Flight of the day: TVF8099  (Unknown Airline)
+        <title>Flight AWQ210   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/8a02ca</link>
+        <description><![CDATA[📅 Monday, August 10, 2026
+✈ Flight of the day: AWQ210   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/39de4f]]></description>
-        <pubDate>Sun, 09 Aug 2026 10:23:19 GMT</pubDate>
-        <guid>TVF8099 -2026-08-09</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/8a02ca]]></description>
+        <pubDate>Mon, 10 Aug 2026 10:59:00 GMT</pubDate>
+        <guid>AWQ210  -2026-08-10</guid>
       </item>
     </channel>
   </rss>
