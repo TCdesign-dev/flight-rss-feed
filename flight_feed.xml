@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TVF12ZW  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/39de51</link>
-        <description><![CDATA[📅 Wednesday, August 12, 2026
-✈ Flight of the day: TVF12ZW  (Unknown Airline)
+        <title>Flight TVF13NV  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/39de4e</link>
+        <description><![CDATA[📅 Thursday, August 13, 2026
+✈ Flight of the day: TVF13NV  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/39de51]]></description>
-        <pubDate>Wed, 12 Aug 2026 10:52:57 GMT</pubDate>
-        <guid>TVF12ZW -2026-08-12</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/39de4e]]></description>
+        <pubDate>Thu, 13 Aug 2026 10:54:16 GMT</pubDate>
+        <guid>TVF13NV -2026-08-13</guid>
       </item>
     </channel>
   </rss>
