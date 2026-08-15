@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AXB14G   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/801642</link>
-        <description><![CDATA[📅 Friday, August 14, 2026
-✈ Flight of the day: AXB14G   (Unknown Airline)
+        <title>Flight SAA074   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/00b22f</link>
+        <description><![CDATA[📅 Saturday, August 15, 2026
+✈ Flight of the day: SAA074   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/801642]]></description>
-        <pubDate>Fri, 14 Aug 2026 10:49:34 GMT</pubDate>
-        <guid>AXB14G  -2026-08-14</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/00b22f]]></description>
+        <pubDate>Sat, 15 Aug 2026 10:13:45 GMT</pubDate>
+        <guid>SAA074  -2026-08-15</guid>
       </item>
     </channel>
   </rss>
