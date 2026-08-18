@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TVF17EZ  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/39de44</link>
-        <description><![CDATA[📅 Monday, August 17, 2026
-✈ Flight of the day: TVF17EZ  (Unknown Airline)
+        <title>Flight UAL818   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/aad012</link>
+        <description><![CDATA[📅 Tuesday, August 18, 2026
+✈ Flight of the day: UAL818   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/39de44]]></description>
-        <pubDate>Mon, 17 Aug 2026 10:22:54 GMT</pubDate>
-        <guid>TVF17EZ -2026-08-17</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/aad012]]></description>
+        <pubDate>Tue, 18 Aug 2026 10:18:32 GMT</pubDate>
+        <guid>UAL818  -2026-08-18</guid>
       </item>
     </channel>
   </rss>
