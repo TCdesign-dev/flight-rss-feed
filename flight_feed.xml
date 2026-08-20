@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AAL1196  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/adeca5</link>
-        <description><![CDATA[📅 Wednesday, August 19, 2026
-✈ Flight of the day: AAL1196  (Unknown Airline)
+        <title>Flight WMT2020  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/471efd</link>
+        <description><![CDATA[📅 Thursday, August 20, 2026
+✈ Flight of the day: WMT2020  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/adeca5]]></description>
-        <pubDate>Wed, 19 Aug 2026 10:19:34 GMT</pubDate>
-        <guid>AAL1196 -2026-08-19</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/471efd]]></description>
+        <pubDate>Thu, 20 Aug 2026 10:20:22 GMT</pubDate>
+        <guid>WMT2020 -2026-08-20</guid>
       </item>
     </channel>
   </rss>
