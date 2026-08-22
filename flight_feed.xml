@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TVF21EU  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/39de53</link>
-        <description><![CDATA[📅 Friday, August 21, 2026
-✈ Flight of the day: TVF21EU  (Unknown Airline)
+        <title>Flight SAA405   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/00b22f</link>
+        <description><![CDATA[📅 Saturday, August 22, 2026
+✈ Flight of the day: SAA405   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/39de53]]></description>
-        <pubDate>Fri, 21 Aug 2026 10:20:32 GMT</pubDate>
-        <guid>TVF21EU -2026-08-21</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/00b22f]]></description>
+        <pubDate>Sat, 22 Aug 2026 10:13:46 GMT</pubDate>
+        <guid>SAA405  -2026-08-22</guid>
       </item>
     </channel>
   </rss>
