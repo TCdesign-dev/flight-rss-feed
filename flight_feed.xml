@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight PGT1235  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/4bc8c4</link>
-        <description><![CDATA[📅 Sunday, August 23, 2026
-✈ Flight of the day: PGT1235  (Unknown Airline)
+        <title>Flight TVF24SV  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/39de58</link>
+        <description><![CDATA[📅 Monday, August 24, 2026
+✈ Flight of the day: TVF24SV  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/4bc8c4]]></description>
-        <pubDate>Sun, 23 Aug 2026 10:14:18 GMT</pubDate>
-        <guid>PGT1235 -2026-08-23</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/39de58]]></description>
+        <pubDate>Mon, 24 Aug 2026 10:28:27 GMT</pubDate>
+        <guid>TVF24SV -2026-08-24</guid>
       </item>
     </channel>
   </rss>
