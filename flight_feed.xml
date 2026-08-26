@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight JBU2255  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/a3556f</link>
-        <description><![CDATA[📅 Tuesday, August 25, 2026
-✈ Flight of the day: JBU2255  (Unknown Airline)
+        <title>Flight SPAWE    - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/488284</link>
+        <description><![CDATA[📅 Wednesday, August 26, 2026
+✈ Flight of the day: SPAWE    (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/a3556f]]></description>
-        <pubDate>Tue, 25 Aug 2026 10:22:07 GMT</pubDate>
-        <guid>JBU2255 -2026-08-25</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/488284]]></description>
+        <pubDate>Wed, 26 Aug 2026 10:25:37 GMT</pubDate>
+        <guid>SPAWE   -2026-08-26</guid>
       </item>
     </channel>
   </rss>
