@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight SPAWE    - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/488284</link>
-        <description><![CDATA[📅 Wednesday, August 26, 2026
-✈ Flight of the day: SPAWE    (Unknown Airline)
+        <title>Flight LTHL295  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ae6306</link>
+        <description><![CDATA[📅 Thursday, August 27, 2026
+✈ Flight of the day: LTHL295  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/488284]]></description>
-        <pubDate>Wed, 26 Aug 2026 10:25:37 GMT</pubDate>
-        <guid>SPAWE   -2026-08-26</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/ae6306]]></description>
+        <pubDate>Thu, 27 Aug 2026 20:03:59 GMT</pubDate>
+        <guid>LTHL295 -2026-08-27</guid>
       </item>
     </channel>
   </rss>
