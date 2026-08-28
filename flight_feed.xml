@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LTHL295  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/ae6306</link>
-        <description><![CDATA[📅 Thursday, August 27, 2026
-✈ Flight of the day: LTHL295  (Unknown Airline)
+        <title>Flight N28BC    - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/a2cbbe</link>
+        <description><![CDATA[📅 Friday, August 28, 2026
+✈ Flight of the day: N28BC    (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/ae6306]]></description>
-        <pubDate>Thu, 27 Aug 2026 20:03:59 GMT</pubDate>
-        <guid>LTHL295 -2026-08-27</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/a2cbbe]]></description>
+        <pubDate>Fri, 28 Aug 2026 21:01:55 GMT</pubDate>
+        <guid>N28BC   -2026-08-28</guid>
       </item>
     </channel>
   </rss>
