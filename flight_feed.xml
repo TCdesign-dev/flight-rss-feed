@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight N28BC    - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/a2cbbe</link>
-        <description><![CDATA[📅 Friday, August 28, 2026
-✈ Flight of the day: N28BC    (Unknown Airline)
+        <title>Flight ASA762   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/acdfa3</link>
+        <description><![CDATA[📅 Saturday, August 29, 2026
+✈ Flight of the day: ASA762   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/a2cbbe]]></description>
-        <pubDate>Fri, 28 Aug 2026 21:01:55 GMT</pubDate>
-        <guid>N28BC   -2026-08-28</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/acdfa3]]></description>
+        <pubDate>Sat, 29 Aug 2026 14:49:50 GMT</pubDate>
+        <guid>ASA762  -2026-08-29</guid>
       </item>
     </channel>
   </rss>
