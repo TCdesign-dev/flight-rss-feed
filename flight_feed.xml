@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight UAL130   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/aa9321</link>
-        <description><![CDATA[📅 Sunday, August 30, 2026
-✈ Flight of the day: UAL130   (Unknown Airline)
+        <title>Flight AXB831   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/801685</link>
+        <description><![CDATA[📅 Monday, August 31, 2026
+✈ Flight of the day: AXB831   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/aa9321]]></description>
-        <pubDate>Sun, 30 Aug 2026 14:35:10 GMT</pubDate>
-        <guid>UAL130  -2026-08-30</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/801685]]></description>
+        <pubDate>Mon, 31 Aug 2026 17:18:49 GMT</pubDate>
+        <guid>AXB831  -2026-08-31</guid>
       </item>
     </channel>
   </rss>
