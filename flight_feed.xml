@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight SKED01   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/ae74ba</link>
-        <description><![CDATA[📅 Tuesday, September 1, 2026
-✈ Flight of the day: SKED01   (Unknown Airline)
+        <title>Flight TVF8602  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/39de4d</link>
+        <description><![CDATA[📅 Wednesday, September 2, 2026
+✈ Flight of the day: TVF8602  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/ae74ba]]></description>
-        <pubDate>Tue, 01 Sep 2026 14:24:48 GMT</pubDate>
-        <guid>SKED01  -2026-09-01</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/39de4d]]></description>
+        <pubDate>Wed, 02 Sep 2026 13:58:10 GMT</pubDate>
+        <guid>TVF8602 -2026-09-02</guid>
       </item>
     </channel>
   </rss>
