@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TVF8602  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/39de4d</link>
-        <description><![CDATA[📅 Wednesday, September 2, 2026
-✈ Flight of the day: TVF8602  (Unknown Airline)
+        <title>Flight DAL1034  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ac4963</link>
+        <description><![CDATA[📅 Thursday, September 3, 2026
+✈ Flight of the day: DAL1034  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/39de4d]]></description>
-        <pubDate>Wed, 02 Sep 2026 13:58:10 GMT</pubDate>
-        <guid>TVF8602 -2026-09-02</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/ac4963]]></description>
+        <pubDate>Thu, 03 Sep 2026 14:00:12 GMT</pubDate>
+        <guid>DAL1034 -2026-09-03</guid>
       </item>
     </channel>
   </rss>
