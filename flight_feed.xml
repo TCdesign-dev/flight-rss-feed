@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight FDY404   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/ac231d</link>
-        <description><![CDATA[📅 Friday, September 4, 2026
-✈ Flight of the day: FDY404   (Unknown Airline)
+        <title>Flight T7RSA    - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/500486</link>
+        <description><![CDATA[📅 Saturday, September 5, 2026
+✈ Flight of the day: T7RSA    (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/ac231d]]></description>
-        <pubDate>Fri, 04 Sep 2026 13:53:24 GMT</pubDate>
-        <guid>FDY404  -2026-09-04</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/500486]]></description>
+        <pubDate>Sat, 05 Sep 2026 13:07:43 GMT</pubDate>
+        <guid>T7RSA   -2026-09-05</guid>
       </item>
     </channel>
   </rss>
