@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight T7RSA    - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/500486</link>
-        <description><![CDATA[📅 Saturday, September 5, 2026
-✈ Flight of the day: T7RSA    (Unknown Airline)
+        <title>Flight AAL1106  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ab6fdd</link>
+        <description><![CDATA[📅 Sunday, September 6, 2026
+✈ Flight of the day: AAL1106  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/500486]]></description>
-        <pubDate>Sat, 05 Sep 2026 13:07:43 GMT</pubDate>
-        <guid>T7RSA   -2026-09-05</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/ab6fdd]]></description>
+        <pubDate>Sun, 06 Sep 2026 13:18:22 GMT</pubDate>
+        <guid>AAL1106 -2026-09-06</guid>
       </item>
     </channel>
   </rss>
