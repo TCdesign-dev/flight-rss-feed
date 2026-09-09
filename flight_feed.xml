@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight BF708    - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/c07d23</link>
-        <description><![CDATA[📅 Tuesday, September 8, 2026
-✈ Flight of the day: BF708    (Unknown Airline)
+        <title>Flight IGO098   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/801619</link>
+        <description><![CDATA[📅 Wednesday, September 9, 2026
+✈ Flight of the day: IGO098   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/c07d23]]></description>
-        <pubDate>Tue, 08 Sep 2026 14:01:05 GMT</pubDate>
-        <guid>BF708   -2026-09-08</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/801619]]></description>
+        <pubDate>Wed, 09 Sep 2026 14:02:51 GMT</pubDate>
+        <guid>IGO098  -2026-09-09</guid>
       </item>
     </channel>
   </rss>
