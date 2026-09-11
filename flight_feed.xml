@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AXB1070  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/801643</link>
-        <description><![CDATA[📅 Thursday, September 10, 2026
-✈ Flight of the day: AXB1070  (Unknown Airline)
+        <title>Flight LXJ411   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/a4d86a</link>
+        <description><![CDATA[📅 Friday, September 11, 2026
+✈ Flight of the day: LXJ411   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/801643]]></description>
-        <pubDate>Thu, 10 Sep 2026 13:57:52 GMT</pubDate>
-        <guid>AXB1070 -2026-09-10</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/a4d86a]]></description>
+        <pubDate>Fri, 11 Sep 2026 13:57:28 GMT</pubDate>
+        <guid>LXJ411  -2026-09-11</guid>
       </item>
     </channel>
   </rss>
