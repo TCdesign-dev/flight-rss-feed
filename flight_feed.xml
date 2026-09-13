@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TVF12GT  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/39de53</link>
-        <description><![CDATA[📅 Saturday, September 12, 2026
-✈ Flight of the day: TVF12GT  (Unknown Airline)
+        <title>Flight N136LM   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/a09281</link>
+        <description><![CDATA[📅 Sunday, September 13, 2026
+✈ Flight of the day: N136LM   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/39de53]]></description>
-        <pubDate>Sat, 12 Sep 2026 13:15:57 GMT</pubDate>
-        <guid>TVF12GT -2026-09-12</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/a09281]]></description>
+        <pubDate>Sun, 13 Sep 2026 13:59:25 GMT</pubDate>
+        <guid>N136LM  -2026-09-13</guid>
       </item>
     </channel>
   </rss>
