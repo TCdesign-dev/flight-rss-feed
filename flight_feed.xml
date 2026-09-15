@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight ANE2014  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/3442c2</link>
-        <description><![CDATA[📅 Monday, September 14, 2026
-✈ Flight of the day: ANE2014  (Unknown Airline)
+        <title>Flight TVF15GP  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/39de55</link>
+        <description><![CDATA[📅 Tuesday, September 15, 2026
+✈ Flight of the day: TVF15GP  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/3442c2]]></description>
-        <pubDate>Mon, 14 Sep 2026 16:04:16 GMT</pubDate>
-        <guid>ANE2014 -2026-09-14</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/39de55]]></description>
+        <pubDate>Tue, 15 Sep 2026 14:33:31 GMT</pubDate>
+        <guid>TVF15GP -2026-09-15</guid>
       </item>
     </channel>
   </rss>
