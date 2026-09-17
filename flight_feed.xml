@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight SPAWE    - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/488284</link>
-        <description><![CDATA[📅 Wednesday, September 16, 2026
-✈ Flight of the day: SPAWE    (Unknown Airline)
+        <title>Flight AAL1729  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/acdfa6</link>
+        <description><![CDATA[📅 Thursday, September 17, 2026
+✈ Flight of the day: AAL1729  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/488284]]></description>
-        <pubDate>Wed, 16 Sep 2026 14:28:46 GMT</pubDate>
-        <guid>SPAWE   -2026-09-16</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/acdfa6]]></description>
+        <pubDate>Thu, 17 Sep 2026 14:32:59 GMT</pubDate>
+        <guid>AAL1729 -2026-09-17</guid>
       </item>
     </channel>
   </rss>
