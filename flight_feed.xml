@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AAL1729  - Unknown Airline</title>
+        <title>Flight AAL1839  - Unknown Airline</title>
         <link>https://opensky-network.org/aircraft/acdfa6</link>
-        <description><![CDATA[📅 Thursday, September 17, 2026
-✈ Flight of the day: AAL1729  (Unknown Airline)
+        <description><![CDATA[📅 Friday, September 18, 2026
+✈ Flight of the day: AAL1839  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
 🔗 Track live here: https://opensky-network.org/aircraft/acdfa6]]></description>
-        <pubDate>Thu, 17 Sep 2026 14:32:59 GMT</pubDate>
-        <guid>AAL1729 -2026-09-17</guid>
+        <pubDate>Fri, 18 Sep 2026 13:59:40 GMT</pubDate>
+        <guid>AAL1839 -2026-09-18</guid>
       </item>
     </channel>
   </rss>
