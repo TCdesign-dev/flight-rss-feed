@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight IGO324M  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/801647</link>
-        <description><![CDATA[📅 Thursday, September 24, 2026
-✈ Flight of the day: IGO324M  (Unknown Airline)
+        <title>Flight PGT1257  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/4bc8d6</link>
+        <description><![CDATA[📅 Friday, September 25, 2026
+✈ Flight of the day: PGT1257  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/801647]]></description>
-        <pubDate>Thu, 24 Sep 2026 14:32:02 GMT</pubDate>
-        <guid>IGO324M -2026-09-24</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/4bc8d6]]></description>
+        <pubDate>Fri, 25 Sep 2026 14:52:43 GMT</pubDate>
+        <guid>PGT1257 -2026-09-25</guid>
       </item>
     </channel>
   </rss>
