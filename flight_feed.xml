@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TVF60SE  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/39de58</link>
-        <description><![CDATA[📅 Tuesday, September 29, 2026
-✈ Flight of the day: TVF60SE  (Unknown Airline)
+        <title>Flight TVF8230  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/39de4e</link>
+        <description><![CDATA[📅 Wednesday, September 30, 2026
+✈ Flight of the day: TVF8230  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/39de58]]></description>
-        <pubDate>Tue, 29 Sep 2026 16:15:44 GMT</pubDate>
-        <guid>TVF60SE -2026-09-29</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/39de4e]]></description>
+        <pubDate>Wed, 30 Sep 2026 16:10:41 GMT</pubDate>
+        <guid>TVF8230 -2026-09-30</guid>
       </item>
     </channel>
   </rss>
