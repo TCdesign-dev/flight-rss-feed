@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LPE2015  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/e8024f</link>
-        <description><![CDATA[📅 Thursday, October 1, 2026
-✈ Flight of the day: LPE2015  (Unknown Airline)
+        <title>Flight AIC2029  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/80166c</link>
+        <description><![CDATA[📅 Friday, October 2, 2026
+✈ Flight of the day: AIC2029  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/e8024f]]></description>
-        <pubDate>Thu, 01 Oct 2026 16:47:54 GMT</pubDate>
-        <guid>LPE2015 -2026-10-01</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/80166c]]></description>
+        <pubDate>Fri, 02 Oct 2026 16:01:43 GMT</pubDate>
+        <guid>AIC2029 -2026-10-02</guid>
       </item>
     </channel>
   </rss>
