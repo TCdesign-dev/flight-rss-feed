@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight SAA041   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/00b22f</link>
-        <description><![CDATA[📅 Saturday, October 3, 2026
-✈ Flight of the day: SAA041   (Unknown Airline)
+        <title>Flight DAL1047  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/acdffc</link>
+        <description><![CDATA[📅 Sunday, October 4, 2026
+✈ Flight of the day: DAL1047  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/00b22f]]></description>
-        <pubDate>Sat, 03 Oct 2026 14:28:36 GMT</pubDate>
-        <guid>SAA041  -2026-10-03</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/acdffc]]></description>
+        <pubDate>Sun, 04 Oct 2026 15:02:22 GMT</pubDate>
+        <guid>DAL1047 -2026-10-04</guid>
       </item>
     </channel>
   </rss>
