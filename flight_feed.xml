@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AKJ1429  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/80161e</link>
-        <description><![CDATA[📅 Wednesday, October 14, 2026
-✈ Flight of the day: AKJ1429  (Unknown Airline)
+        <title>Flight AAL3115  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ab6fdd</link>
+        <description><![CDATA[📅 Thursday, October 15, 2026
+✈ Flight of the day: AAL3115  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/80161e]]></description>
-        <pubDate>Wed, 14 Oct 2026 14:47:27 GMT</pubDate>
-        <guid>AKJ1429 -2026-10-14</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/ab6fdd]]></description>
+        <pubDate>Thu, 15 Oct 2026 14:33:34 GMT</pubDate>
+        <guid>AAL3115 -2026-10-15</guid>
       </item>
     </channel>
   </rss>
