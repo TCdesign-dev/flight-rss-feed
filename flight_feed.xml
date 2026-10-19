@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AXB1815  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/801638</link>
-        <description><![CDATA[📅 Sunday, October 18, 2026
-✈ Flight of the day: AXB1815  (Unknown Airline)
+        <title>Flight 72192    - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ae1fcf</link>
+        <description><![CDATA[📅 Monday, October 19, 2026
+✈ Flight of the day: 72192    (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/801638]]></description>
-        <pubDate>Sun, 18 Oct 2026 13:41:02 GMT</pubDate>
-        <guid>AXB1815 -2026-10-18</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/ae1fcf]]></description>
+        <pubDate>Mon, 19 Oct 2026 16:42:48 GMT</pubDate>
+        <guid>72192   -2026-10-19</guid>
       </item>
     </channel>
   </rss>
