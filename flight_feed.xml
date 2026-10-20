@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight 72192    - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/ae1fcf</link>
-        <description><![CDATA[📅 Monday, October 19, 2026
-✈ Flight of the day: 72192    (Unknown Airline)
+        <title>Flight LOCO28   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ae1fac</link>
+        <description><![CDATA[📅 Tuesday, October 20, 2026
+✈ Flight of the day: LOCO28   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/ae1fcf]]></description>
-        <pubDate>Mon, 19 Oct 2026 16:42:48 GMT</pubDate>
-        <guid>72192   -2026-10-19</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/ae1fac]]></description>
+        <pubDate>Tue, 20 Oct 2026 14:34:41 GMT</pubDate>
+        <guid>LOCO28  -2026-10-20</guid>
       </item>
     </channel>
   </rss>
