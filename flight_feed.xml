@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight SAA041   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/00b22e</link>
-        <description><![CDATA[📅 Saturday, October 24, 2026
-✈ Flight of the day: SAA041   (Unknown Airline)
+        <title>Flight IGO258   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/80163c</link>
+        <description><![CDATA[📅 Sunday, October 25, 2026
+✈ Flight of the day: IGO258   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/00b22e]]></description>
-        <pubDate>Sat, 24 Oct 2026 13:44:18 GMT</pubDate>
-        <guid>SAA041  -2026-10-24</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/80163c]]></description>
+        <pubDate>Sun, 25 Oct 2026 14:01:06 GMT</pubDate>
+        <guid>IGO258  -2026-10-25</guid>
       </item>
     </channel>
   </rss>
