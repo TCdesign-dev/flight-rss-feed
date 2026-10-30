@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight LJY296   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/a2cbb4</link>
-        <description><![CDATA[📅 Thursday, October 29, 2026
-✈ Flight of the day: LJY296   (Unknown Airline)
+        <title>Flight AAL3044  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ad5623</link>
+        <description><![CDATA[📅 Friday, October 30, 2026
+✈ Flight of the day: AAL3044  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/a2cbb4]]></description>
-        <pubDate>Thu, 29 Oct 2026 16:30:49 GMT</pubDate>
-        <guid>LJY296  -2026-10-29</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/ad5623]]></description>
+        <pubDate>Fri, 30 Oct 2026 16:22:45 GMT</pubDate>
+        <guid>AAL3044 -2026-10-30</guid>
       </item>
     </channel>
   </rss>
