@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight ITY8015  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/300aa7</link>
-        <description><![CDATA[📅 Sunday, November 1, 2026
-✈ Flight of the day: ITY8015  (Unknown Airline)
+        <title>Flight AAL1202  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/a3b88e</link>
+        <description><![CDATA[📅 Monday, November 2, 2026
+✈ Flight of the day: AAL1202  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/300aa7]]></description>
-        <pubDate>Sun, 01 Nov 2026 16:30:42 GMT</pubDate>
-        <guid>ITY8015 -2026-11-01</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/a3b88e]]></description>
+        <pubDate>Mon, 02 Nov 2026 19:53:59 GMT</pubDate>
+        <guid>AAL1202 -2026-11-02</guid>
       </item>
     </channel>
   </rss>
