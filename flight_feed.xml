@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AAL1202  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/a3b88e</link>
-        <description><![CDATA[📅 Monday, November 2, 2026
-✈ Flight of the day: AAL1202  (Unknown Airline)
+        <title>Flight EAGLE03  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/adffa6</link>
+        <description><![CDATA[📅 Tuesday, November 3, 2026
+✈ Flight of the day: EAGLE03  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/a3b88e]]></description>
-        <pubDate>Mon, 02 Nov 2026 19:53:59 GMT</pubDate>
-        <guid>AAL1202 -2026-11-02</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/adffa6]]></description>
+        <pubDate>Tue, 03 Nov 2026 17:26:32 GMT</pubDate>
+        <guid>EAGLE03 -2026-11-03</guid>
       </item>
     </channel>
   </rss>
