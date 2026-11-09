@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight SWA4508  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/ad694c</link>
-        <description><![CDATA[📅 Sunday, November 8, 2026
-✈ Flight of the day: SWA4508  (Unknown Airline)
+        <title>Flight EJA309   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/a34230</link>
+        <description><![CDATA[📅 Monday, November 9, 2026
+✈ Flight of the day: EJA309   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/ad694c]]></description>
-        <pubDate>Sun, 08 Nov 2026 16:27:23 GMT</pubDate>
-        <guid>SWA4508 -2026-11-08</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/a34230]]></description>
+        <pubDate>Mon, 09 Nov 2026 20:17:59 GMT</pubDate>
+        <guid>EJA309  -2026-11-09</guid>
       </item>
     </channel>
   </rss>
