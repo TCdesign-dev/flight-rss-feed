@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight EJA309   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/a34230</link>
-        <description><![CDATA[📅 Monday, November 9, 2026
-✈ Flight of the day: EJA309   (Unknown Airline)
+        <title>Flight AAL1099  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/ab6fdd</link>
+        <description><![CDATA[📅 Tuesday, November 10, 2026
+✈ Flight of the day: AAL1099  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/a34230]]></description>
-        <pubDate>Mon, 09 Nov 2026 20:17:59 GMT</pubDate>
-        <guid>EJA309  -2026-11-09</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/ab6fdd]]></description>
+        <pubDate>Tue, 10 Nov 2026 17:22:49 GMT</pubDate>
+        <guid>AAL1099 -2026-11-10</guid>
       </item>
     </channel>
   </rss>
