@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TAP1356  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/4952d2</link>
-        <description><![CDATA[📅 Friday, November 13, 2026
-✈ Flight of the day: TAP1356  (Unknown Airline)
+        <title>Flight SWR1488  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/4b1805</link>
+        <description><![CDATA[📅 Saturday, November 14, 2026
+✈ Flight of the day: SWR1488  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/4952d2]]></description>
-        <pubDate>Fri, 13 Nov 2026 17:26:06 GMT</pubDate>
-        <guid>TAP1356 -2026-11-13</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/4b1805]]></description>
+        <pubDate>Sat, 14 Nov 2026 16:14:53 GMT</pubDate>
+        <guid>SWR1488 -2026-11-14</guid>
       </item>
     </channel>
   </rss>
