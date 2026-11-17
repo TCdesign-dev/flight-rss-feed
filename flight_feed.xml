@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AAL1610  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/adeca5</link>
-        <description><![CDATA[📅 Monday, November 16, 2026
-✈ Flight of the day: AAL1610  (Unknown Airline)
+        <title>Flight N3517S   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/a3ebe2</link>
+        <description><![CDATA[📅 Tuesday, November 17, 2026
+✈ Flight of the day: N3517S   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/adeca5]]></description>
-        <pubDate>Mon, 16 Nov 2026 19:56:26 GMT</pubDate>
-        <guid>AAL1610 -2026-11-16</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/a3ebe2]]></description>
+        <pubDate>Tue, 17 Nov 2026 18:52:33 GMT</pubDate>
+        <guid>N3517S  -2026-11-17</guid>
       </item>
     </channel>
   </rss>
