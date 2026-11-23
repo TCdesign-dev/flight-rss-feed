@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight TVF74SU  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/39de47</link>
-        <description><![CDATA[📅 Sunday, November 22, 2026
-✈ Flight of the day: TVF74SU  (Unknown Airline)
+        <title>Flight ADS237   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/c047b3</link>
+        <description><![CDATA[📅 Monday, November 23, 2026
+✈ Flight of the day: ADS237   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/39de47]]></description>
-        <pubDate>Sun, 22 Nov 2026 17:30:47 GMT</pubDate>
-        <guid>TVF74SU -2026-11-22</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/c047b3]]></description>
+        <pubDate>Mon, 23 Nov 2026 21:49:39 GMT</pubDate>
+        <guid>ADS237  -2026-11-23</guid>
       </item>
     </channel>
   </rss>
