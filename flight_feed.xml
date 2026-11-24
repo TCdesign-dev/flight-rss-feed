@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight ADS237   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/c047b3</link>
-        <description><![CDATA[📅 Monday, November 23, 2026
-✈ Flight of the day: ADS237   (Unknown Airline)
+        <title>Flight LPE2440  - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/e8027d</link>
+        <description><![CDATA[📅 Tuesday, November 24, 2026
+✈ Flight of the day: LPE2440  (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/c047b3]]></description>
-        <pubDate>Mon, 23 Nov 2026 21:49:39 GMT</pubDate>
-        <guid>ADS237  -2026-11-23</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/e8027d]]></description>
+        <pubDate>Tue, 24 Nov 2026 20:26:18 GMT</pubDate>
+        <guid>LPE2440 -2026-11-24</guid>
       </item>
     </channel>
   </rss>
