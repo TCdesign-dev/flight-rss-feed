@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight AAL2604  - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/aae316</link>
-        <description><![CDATA[📅 Thursday, November 26, 2026
-✈ Flight of the day: AAL2604  (Unknown Airline)
+        <title>Flight PTN27E   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/3cf0b8</link>
+        <description><![CDATA[📅 Friday, November 27, 2026
+✈ Flight of the day: PTN27E   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/aae316]]></description>
-        <pubDate>Thu, 26 Nov 2026 19:21:08 GMT</pubDate>
-        <guid>AAL2604 -2026-11-26</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/3cf0b8]]></description>
+        <pubDate>Fri, 27 Nov 2026 19:16:08 GMT</pubDate>
+        <guid>PTN27E  -2026-11-27</guid>
       </item>
     </channel>
   </rss>
