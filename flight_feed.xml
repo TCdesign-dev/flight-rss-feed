@@ -5,15 +5,15 @@
       <link>https://github.com/TCdesign-dev/flight-rss-feed</link>
       <description>Daily flights with live tracking</description>
       <item>
-        <title>Flight PTN27E   - Unknown Airline</title>
-        <link>https://opensky-network.org/aircraft/3cf0b8</link>
-        <description><![CDATA[📅 Friday, November 27, 2026
-✈ Flight of the day: PTN27E   (Unknown Airline)
+        <title>Flight ASA495   - Unknown Airline</title>
+        <link>https://opensky-network.org/aircraft/acdfa3</link>
+        <description><![CDATA[📅 Saturday, November 28, 2026
+✈ Flight of the day: ASA495   (Unknown Airline)
 🛫 From: Unknown
 🛬 To: Unknown
-🔗 Track live here: https://opensky-network.org/aircraft/3cf0b8]]></description>
-        <pubDate>Fri, 27 Nov 2026 19:16:08 GMT</pubDate>
-        <guid>PTN27E  -2026-11-27</guid>
+🔗 Track live here: https://opensky-network.org/aircraft/acdfa3]]></description>
+        <pubDate>Sat, 28 Nov 2026 17:52:24 GMT</pubDate>
+        <guid>ASA495  -2026-11-28</guid>
       </item>
     </channel>
   </rss>
